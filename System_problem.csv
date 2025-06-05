@@ -1,0 +1,56 @@
+﻿Questions,Answers
+The phone is freezes while playing games. What can I do?,"Please try the below:
+
+1. Check the game app version. Please download the latest version of the game from the Google Play Store.
+2. Clear the app's data: Settings > Apps > See all apps. In the game app go to: Storage & cache > Storage > Clear cache. This operation is not recommended for single-player games. 
+3. Update your device to the latest version, back up your data and restore to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+The screen goes black while playing games. What can I do?,"Please try the below:
+
+1. Check the version of the game. Make sure you are using the latest app version. 
+2. Clear the gaming data by going to Settings > Apps > See all apps. In the game app, go to Strage and Cache > Storage> Clear Storage. We don't recommend this method for single-player games.
+3. Update your device to the latest version, back up your data and restore the phone to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+The phone stutters when playing games. What can I do?,"Please try the below:
+
+1. Connect to a stable network and try again.
+2. Clear all background apps to ensure the phone has enough random access memory.
+3. Downgrade the game configuration (image quality, resolution, turn-off special effects) and try again.
+4. Ensure your phone is fully charged. The power-saving mode will affect the performance. If the power-saving mode is turned on, turn it off temporarily.
+5. Restart the phone, open the game, ensure there is enough random access memory and try again.
+6. Enter the application management to clear the cache and try again. (The game data will be lost after clearing; back it up before clearing.)
+7. If the phone has just been updated, restart it and try again.
+8. Check whether the game and phone system are updated to the latest version."
+My phone is slow to turn on. What can I do?,"Please try the below:
+
+1. Open the auto-start settings page and cancel the auto-run for all apps that don't need to be on auto-run (some models have no auto-start option).
+2. Uninstall any apps you don't use often.
+3. Ensure your phone is updated to the latest version by going to Settings > System > System update.
+4. Back up your data and restore your phone to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+One of my app stops running unexpectedly. What can I do?,"Please try the below:
+
+1. Go to Settings > Apps > See all apps > Find the app > Storage & cache > Clear storage and Clear cache
+2. Swipe up on the home page to enter the recent app page to clear all applications and then try again.
+3. Uninstall and reinstall the app.
+4. Back up your data and restore the phone to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+The phone is slow to boot after a software upgrade. What can I do?,This is expected after a software upgrade as the phone needs to reload all data.
+The software won't update. What can I do?,"Please try the below:
+
+1. Check whether there is an updated version.
+2. Check whether there's enough storage (go to Setting > Storage).
+3. Check whether your network connection is stable. Try using 4G.
+4. Uninstall and reinstall the software and update.
+
+If the issue persists, please contact our Customer Support for further assistance."
+The OTA / system update won't work. What can I do?,"1. Ensure your phone is connected to a network with a good signal. An unstable network may cause the downloaded upgrade package to be damaged or incomplete.
+2. Ensure your phone has enough storage space to complete the download.
+3. Ensure that your phone's battery is no less than 40%; otherwise the system will not allow OTA upgrade. Please perform the upgrade after charging.
+4. Avoid using your phone during OTA upgrade. If you do use your phone and interrupt the upgrade, restart it.
+
+If the problem persists, please contact our Customer Support for further assistance."

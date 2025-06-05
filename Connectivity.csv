@@ -1,0 +1,55 @@
+﻿Questions ,Answers
+Why is my web browser slow?,"Please try the below:
+
+1. When browsing the web, the phone will automatically download pictures according to the size and resolution of the screen. Loading images may be slow.
+2. You can regularly clean up the browser cache.
+3. Try to use different networks. If you use data, please check if your phone data package has exceeded its limit.
+
+If the issue persists, contact our Customer Support for further assistance."
+My game keeps disconnecting. What can I do?,"Please try the below:
+
+1. Restart the game.
+2. Switch the WiFi or data network, confirm that mobile data is switched on and try again.
+3. Go to Settings > Apps > See all apps. Find the game app, go to Storage & cache to clear the cache and then restart the game.
+4. Uninstall and reinstall the game.
+
+If the issue persists, please contact our Customer Support for further assistance."
+My phone won't connect to a computer. What can I do?,"1. Check whether the USB debugging function is turned on in the phone settings. Go to Settings > About phone > Android version. Click 'Build Number' continuously. After 'You are now in developer mode' appears, go to Settings > System > Developer options > USB debugging to enable USB debugging.
+2. If the phone is charging properly and the USB port is working, reinsert the USB cable and select 'File transfer' for ' Use USB for'.
+3. If the computer can't recognise 'Use USB for' and have selected 'File transfer', restart your phone and computer and try to connect again.
+4. Change the USB cable, ensure that both the phone and computer USB ports are working properly to rule out any issues with the cable connector and USB ports.
+5. If the computer has the phone drivers installed and a new device prompt appears when it's connected, it's usually a driver issue. In this case, reinstall the drivers.
+6. Back up your data and restore the phone to factory settings.
+
+If the issue persists, please contact our Customer Support for further assistance."
+The location toggle won't turn on. What can I do?,"Please try the below:
+
+1. Try to turn on the Location again: Settings > Location > Use location > Set to enable.
+2. Restart the phone and turn on Location.
+3. Back up your data and restore to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+The WiFi toggle is unresponsive. What can I do?,"Please try the below:
+
+1. Go to Settings > Network & internet > Internet > WiFi and turn it off and on.
+2. Turn the Airplane Mode on and off, and try to turn on the WiFi.
+3. Restart the phone and try to turn on the WiFi.
+4. Back up your data and restore the phone to factory settings .
+
+If the issue persists, contact our Customer Support for further assistance."
+The WiFi won't connect automatically. What can I do?,"Please try the below:
+
+1. Switch WiFi off and on.
+2. Try a different WiFi.
+3. Clear WLAN data: Settings > Network & internet > Internet > WiFi > Saved Networks, select the corresponding WiFi name, select Forget and then reconnect later.
+
+If the issue persists, contact our Customer Support for further assistance."
+The WiFi constantly disconnects. What can I do?,"Please try the below:
+
+1. Stay close to the router to avoid automatic disconnection due to weak signal.
+2. If many devices are connected to the same WiFi network, disconnect them.
+3. If you're using a metal protective case, remove it and try again.
+4. Turn the WiFi off and on to check again.
+5. Try using another WiFi network.
+
+If the issue persists, please contact our Customer Support for further assistance."

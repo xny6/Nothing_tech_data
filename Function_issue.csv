@@ -1,0 +1,39 @@
+﻿Questions,Answers
+One or both my Ear (1) earbuds are not working.,"If audio is not playing from one or both earbuds, try the following:
+1. Try different apps to confirm if the problem is with the specific app on your chosen device.
+2. Ensure that your device media volume is not low or muted.
+3. Disconnect and reconnect the earbuds via Bluetooth.
+4. Reset the earbuds."
+The Active Noise Cancellation (ANC) is not working.,"If Active Noise Cancellation is not working, try the following:
+1. Make sure that you have downloaded the Nothing X app and have paired your Ear (1) earbuds.
+2. Turn on the ANC from the app.
+3. Change the ANC mode to Maximum.
+4. Reset the device."
+Why does the volume displayed on the phone not match with the pressing control?,The delay on the phone volume display is caused by Bluetooth compatibility. Please refer to the earbuds' volume.
+Why do the earbuds adjust automatically without pressing?,"1. Try to press the correct corresponding area again.
+2. Place the earbuds into the charging case, close it, and open it. Then wear the earbuds to test again."
+Why can't I use press control to adjust the volume after making it the corresponding action in the settings?,"Some phones or computers may not support the volume adjustment protocol. If you encounter this problem, please connect Ear (2) with a commonly used device and try to adjust the volume. If there is no issue with more common devices, it is a compatibility issue with a specific device.
+If you have any further concerns, please contact Nothing Customer Service."
+Why can't I change the music playback with press control?,"Some apps do not support these type of commands. Is so, they will not respond to the press control commands on Ear (2), resulting in an invalid gesture control. This problem is not caused by Ear (2) itself.
+If you have any further concerns, please contact Nothing Customer Serivce."
+Why can't my earphones activate the ChatGPT feature?,"1) This feature is compatible only with Nothing smartphones. Please upgrade your phone system to the latest version. 2) Please upgrade your Nothing X app to the latest version. 3) Please make sure to download, install, and log into the ChatGPT application from the Google Play Store and use the ChatGPT Voice feature at least once. 4) You need to enable and apply the ChatGPT setting through Nothing X app >> Controls >> Voice AI >> ChatGPT. Please check if you meet the above conditions. If your issue remains unresolved following these steps, please contact us again."
+Why is the button on my charging case not working?,"1. When the charging case battery is at 1%, the case will shut down, causing the button to become unresponsive. This is not an earbud malfunction. If you experience a low battery shutdown, please connect the charging case to a power source with the lid closed to recharge it.
+
+2. In areas with significant environmental interference (such as numerous signal transmitters/receivers or other interference factors caused by weather), the earbuds and charging case may occasionally disconnect. Please check for environmental interference factors. You can open and close the charging case lid to reconnect the earbuds.
+*Reconnection takes approximately 3-4 seconds.
+
+3. double tap & hold function:
+To reduce accidental touches in certain scenarios, the product design includes a double tap & hold function to temporarily disable the charging case button. If you accidentally disable the button, use the Smart Dial on the charging case to perform double tap & hold, or place both earbuds back in the charging case, close and reopen the lid to restart the charging case Smart Dial function.
+*This feature can only be used if the charging case Smart Dial function is set in the app. 
+
+For further assistance, please refer to the product manual or contact our official customer support."
+Why can the Smart Dial on the charging case switch noise cancellation modes but not control volume?,"If you encounter this issue, please check the following:
+
+1. Ensure the Smart Dial's Rotate control is correctly set in the Nothing X app under CONTROLS.
+2. Verify that your phone is set to synchronize Bluetooth volume with the phone volume (Bluetooth absolute volume). If not enabled, please turn it on in the phone's Bluetooth settings or developer settings.
+3. Check if your earbuds are already at the maximum or minimum volume. Try rotating the dial in the opposite direction to see if there is any feedback."
+I'm not happy with the noise cancellation. What can I do?,"CMF Buds 2 supports active noise cancellation (ANC) up to 48dB. We recommend downloading the Nothing X app and checking the ANC settings under Noise Control. This setting offers multiple options such as High, Mid, Low and Adaptive.
+
+Improper fitting of the ear tips can affect the noise cancellation seal, resulting in poor or ineffective noise cancellation. The earbuds come with different sizes of ear tips. We suggest trying different ear tips to find the best fit for optimal noise cancellation.
+
+For more precise adjustments and settings, please use the Nothing X app, available on Google Play and the iOS App Store."

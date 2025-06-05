@@ -1,0 +1,161 @@
+﻿Questions,Answers
+What do I do if there is a phone location failure?,"Please try the following: 
+
+1. Check the GPS signal: if you're indoors or around tall buildings, move outdoors or to an open space for better GPS signal.
+2. Update data: make sure that your phone is updated with the latest map data and ensure yoy have a stable network connection.
+3. Turn on the location service: make sure your phone has the location service turned on and ensure it's enabled.
+4. Restart the phone to rule out any software problems.
+5. Get the hardware checked out: if the positioning function fails for a long time, it may be caused by a hardware failure and you'll need to have it professionally inspected and repaired.
+
+If the problem persists, please contact the Nothing support team for further assistance"
+What do I do when battery share doesn't work?,"Please try the following: 
+
+1. Ensure battery share is enabled by going to Settings> Battery> Battery Share> Allow Battery Share. 
+2. Check if your phone's battery is lower than the default limit in Settings (15%), in which case it will stop sharing power. To enable, go to Settings> Battery> Battery Share> Allow Battery Share. On this page, you will see the default settings is 'Stop sharing battery when phone reaches 15%'.
+3. Remove your phone's case and other items that can cause interference, like metal objects.
+4. Ensure both devices are in correct positions during battery share.
+5. Check for device compatibility. 
+
+If the issue persists, contact the Nothing Support Team for further assistance."
+Does Nothing Phone support app clone?,"Yes, Nothing OS 2.0.0 supports app clone. Enter Settings> Apps> Cloned Apps, and add the corresponding third-party application in the application list to clone."
+Does Nothing Phone support app locker?,"Yes, Nothing OS 2.0.0 supports app locker. Enable the app lock (app encryption) function and verify your password (or fingerprint, face). Go to Settings> Apps> App Locker, and add the corresponding third-party application in the application list for encryption."
+How do I use Android Auto?,"Android Auto established a connection between your phone and the on-board equipment. The on-board equipment in the car needs to support Android Auto. Please check with your vehicle service provider for device compatibility. Go to Settings> Connected Devices> Connection Preferences> Android Auto, connect to the car via USB cable. Turn on USB debugging; (Developer options - USB debugging). 2. Allow popup requests on your phone. For most compatible car or aftermarket stereos, simply plug into your phone with a USB cable. If your car's display supports wireless connectivity, you must pair your phone with your car's Bluetooth to set it up. Once set up, depending on your car, the phone will automatically connect or the Android Auto app icon will appear on your car's display. Kind tips: 1. If your phone is charging after a connection attempt and the connection can't be established, replace the USB data cable to reconnect to the car. Alternatively, restart your phone to reconnect. 2. Check if the built-in software of the car projection screen is the latest version and upgrade the Android Auto on your phone to the latest version in the Google Play Store"
+Video won't load. What can I do?,"Please try the below:
+
+1. Ensure your device is connected to the internet. 
+2. Confirm if other videos are loading normally. If so, the issue may be caused by the video source. 
+3. Reboot your phone and try again.
+4. Check if the application and / or system version is the latest. If not, please update them.
+5. Uninstall and re-install the application.
+6. Back up your data and restore the phone to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+The music player won't load the lyrics. What can I do?,"Please try the below:
+
+1. Clear all background apps.
+2. Restart the phone.
+3. Check whether you can download the music lyrics file.
+4. Check the current network environment.
+5. Uninstall the music player and reinstall it.
+6. Check whether the phone is updated to the latest system version. If not, update it.
+7. Back up your data and restore the phone to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+My phone screen goes full white. What can I do?,"Please try the below:
+
+1. Restart the device.
+2. Back your data and restore the phone to factory settings. 
+
+If the issue persists, contact our Customer Support for further assistance."
+The phone screen isn't working properly. What can I do?,"Please try the below:
+
+1. Turn off the developer options (if switched on).
+2. Switch on the interface and check whether its display is normal. For example, switch between an app and your browser.
+3. Restart the phone.
+4. Back up your data and restore to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+My music files won't open for playback. What can I do?,"Please try the below:
+
+1. Clear all background apps and try again.
+2. Restart the phone and try again.
+3. Ensure the network is good and switch to a different WiFi or data network to try again.
+4. Try to download music in other formats to rule out format compatibility.
+5. If using a third-party player to play music, install other apps, restart the phone and play it again to check if this resolves the issue. Alternatively, uninstall and reinstall the player.
+6. Ensure your phone is updated to the latest version.
+7. Back up phone data and restore to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance."
+The virtual buttons aren't working or responding. What can I do?,"Please try the below:
+
+1. If you've recently downloaded and installed a third-party application, uninstall it to rule out software incompatibility issues. To do this, go to Settings > Apps > See all apps; find the third-party application then tap Uninstall.
+2. If multiple apps are running at the same time, close and reopen them or restart your phone.  
+3. Back up your data and restore your phone to factory settings.
+4. If your phone can detect the latest system version, update it by going to Settings > System > System update > Check for update (be sure to back up your data before upgrading).
+
+If the issue persists, contact our Customer Support for further assistance."
+The lights in the Glyph Interface won't light up. What can I do?,"Please try the below:
+
+1. Check in Settings > Glyph Interface that the Glyphs are turned on.
+2. Check the time is set correctly. Go to Settings > Glyph Interface > Bedtime schedule.
+3. Restart the phone.
+
+If the issue persists, please contact our Customer Support for further assistance."
+I can't enable Find My Phone. What can I do?,"Please try the below:
+
+1. Insert a valid SIM card to the phone and enable the data network or connect to the wireless network.
+2. If your phone is connected to the network, restart it and try again.
+
+If the issue persists, please contact our Customer Support for further assistance."
+Videos are not getting displayed on some webpages. What can I do?,"Please try the below:
+
+1. This may be due to slow network speeds. Try watching the video using WiFi.
+2. Try a different video source.
+3. Download and install the Adobe Flash Player plug-in.
+4. Try using a different browser.
+5. Confirm mobile data is turned on and whether your data package has exceeded its limit.
+
+If the issue persists, please contact our Customer Support for further assistance."
+MMS downloads aren't working. What can I do?,"Please try the below:
+
+1. Ensure the SIM card's GPRS Traffic is on.
+2. Check if the network signal in your area is working properly.
+3. Use a different SIM card to see if can download MMS and rule out a defective SIM card.
+4. If the MMS still cannot be downloaded after above steps, try restoring to factory settings after backing up important data.
+
+If the issue persists, please contact our Customer Support for further assistance."
+My SMS messages are not being received by the recipient. What can I do?,"The issue might be to do with:
+
+2. The network congestion of your operator, which may cause delays in receiving SMS.
+3. The recipient's mobile phone memory, which may be full.
+4. Time. If the recipient has been out of the service area for a long time, the SMS may have timed out and been deleted by the SMS centre.
+5. Sensitive words, which may have been deleted by the operator in the SMS Centre.
+
+Confirm the SMS number is correct and contact our Customer Support for further assistance if the issue persists."
+Google Photo isn't synchronising. What can I do?,"The issue may be to do with:
+
+1. Network abnormalities
+Change the network and try again.
+
+2. Insufficient storage space of Google Photos
+Empty the cloud storage space with the following methods:
+1) Go to Google Drive, delete invalid files and clean up the storage space.
+2) Go to Google Photo > Library > Trash > Select picture > Permanently delete, release space.
+3) Go to Google Photo > Avatar in the upper right corner > Account storage > Review and Delete to delete invalid files.
+3. Expand Google storage space. Go to Desktop > Google Drive > More in the upper left corner > Buy storage. Choose your preferred package; it'll need paying for. 
+
+If the issue persists, contact our Customer Support for further assistance."
+I can't find my contact information. What can I do?,"Check your backup data by going to Settings > System > Backup and choose Backup details > Google account data to ensure contacts are enabled. Once enabled, the contact information will automatically be synced to the cloud providing the network is stable.
+
+Note: please backup your data regularly to avoid losing it."
+An app icon has disappeared from the home screen. What can I do?,"Please try the below:
+
+1. Third-party themes or plug-in won't have app icons on the home screen, so check the download files for them.
+2. Restart your phone to refresh your home screen. 
+3. Uninstall and reinstall the app in question.
+4. Swipe up the home page to open the application center and long-press on the app to drag it to the home screen."
+My phone won't vibrate. What can I do?,"Please try the below:
+
+1. Check vibration settings: 
+Go to Settings > Sound & vibration > Vibration and toggle on Vibrate for Calls and Notification vibration/Touch feedback.
+2. Press the volume key to enter the ringtone Volume settings. Click the ringtone icon and check whether the vibration is on.
+3. Reboot the phone and try again.
+4. Back up all data and restore the phone to factory settings.
+
+If the issue persists, please contact our Customer Support for further assistance."
+Face unlock won't work. What can I do?,"Please try the below:
+
+1. Ensure Face Unlock is enabled.
+2. Remove the exsiting face data, add a new face data and then test again.
+3. Restart the phone.
+4. Back up the phone data and reset the phone to factory settings. Then set up the Face Unlock again.
+
+If the issue persists, please contact our Customer Support for further assistance."
+The time in the status bar is different from the clock widget. What can I do?,"Please try the below:
+
+1. Go to Settings > System > Date & time and adjust the time manually.
+2. Go to Settings > Apps > See all apps > Clock > Storage & cache to clear the storage.
+
+If the issue persists, contact our Customer Support for further assistance."
+Battery share isn't working. What can I do?,"Unfortunately, battery sharing is not supported."
+How do I hide app icons on Nothing Phone?,"Nothing OS 2.5.0 supports hide app icons. Option 1: 1. Swipe up on the home screen to open the drawer app list, then swipe right in the drawer to access the hidden icons page. 2. Click Edit to hide icons you do not want to display on the desktop and drawer. Option 2: 1. Long-press on an empty area on the home screen > Home settings > Hide app icons > Edit hidden icons. 2. After editing the icons you want to hide, swipe right in the drawer to access the hidden icons."

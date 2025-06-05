@@ -1,0 +1,87 @@
+﻿Questions,Answers
+How do I download the Nothing X app?,"Download the Nothing X app by searching for it on the Google Play store for Android devices and the App Store for iOS devices.
+
+Alternatively, go to our website and scan the QR code: https://intl.nothing.tech/pages/nothing-x-app-download. The QR code is also available in the user guide inside the packaging or on the packaging box."
+How do I switch between the noise cancellation modes?,If no incoming calls: tap and hold one second to switch between Active Noise Cancellation and Transparency Mode. You can switch the different noise cancellation modes in the Nothing X app.
+How do I charge CMF earbuds?,"Charging the earbuds:
+Place the earbuds in the charging case and close the lid to start charging.
+
+Charging the case with earbuds:
+Put the earbuds in the charging case, close the lid and connect the case to a power supply using a type-C charging cable.
+
+Indicator light status:
+
+Red light (steady): charging case is currently charging.
+White light (steady): charging case is fully charged."
+How do I operate the control functions on CMF earbuds?,"Double-tap
+Music / standby: skip to the next track
+Call: answer an incoming call
+
+Triple-tap
+Music / standby: skip to the previous track
+Call: reject or hang up the call
+
+Tap and Hold
+Switch between Active Noise Cancellation and Transparency Mode
+
+For more options, use the Nothing X app.
+Optional functions include: play/pause, skip forward, skip back, toggle noise cancellation modes, volume up, volume down, and wake up the voice assistant."
+How do I adjust the volume on CMF earbuds?,"You can adjust the volume directly on your phone or use the Double tap & hold gesture in the Nothing X app to control the earbuds' volume. Double tap and hold for 1 second to adjust the volume. After triggering Tap & hold, the volume changes by one bar every 0.9 seconds and stops rising when the touch control is released."
+How do I reset CMF earbuds?,Place both earbuds into the charging case and leave the case open. Press and hold the function button on the charging case for 10 seconds. The reset is complete when the red light flashes three times.
+How do I manage dual connection and connection priority on CMF earbuds？,"1. Reconnection on lid open:
+a) If the earbuds are connected to fewer than two devices, with dual connection enabled and the earbuds are powered on, they will attempt to reconnect to the last two connected devices. If dual connection is enabled for the first time with no previous reconnection records, the earbuds will maintain a single-device connection. (In single connection mode, the earbuds will not automatically enter pairing mode; pairing a new device requires a manual long-press of the button.) If reconnection to other devices fails, the earbuds will stay connected to a single device and will not enter pairing mode.
+
+b) If the earbuds and the terminal device exceed the connection range and then return within range, the earbuds will only reconnect to the phone that was disconnected due to distance.
+
+c) Reconnection will not be triggered when the earbuds are in a call or music state.
+
+d) If the earbuds are in a reconnection state and a call or music scenario occurs, the earbuds will pause reconnection for 5 seconds. If the call or music ends within the reconnection timeout period, the earbuds will resume the paused reconnection until the timeout. After the reconnection timeout, the connection can only be initiated from the device end.
+
+2. Connection priority:
+When the earbuds are in dual connection mode, connection priority follows these principles:
+a) If neither of the two phones is in a music state, the earbuds will disconnect from the first connected phone and connect to the device initiating the snatch.
+b) When the earbuds enter pairing mode and are already connected to two devices, they will disconnect from one of the devices to be searchable and connectable.
+c) If the earbuds are already connected to two devices, and a third device with a connection record initiates a snatch, the earbuds will disconnect from one of the devices and connect to the third device.
+
+Tips:
+
+Music state:
+1. If one of the two phones is in a music state, the earbuds will disconnect from the phone that is not in the music state and connect to the device initiating the snatch.
+2. If both phones are in a music state, the earbuds will disconnect from the phone whose music is not outputting through the earbuds (i.e., disconnect the device in the muted music state) and connect to the device initiating the snatch.
+
+Call state:
+1. If any phone is in a call state, connection snatch is not allowed.
+
+*The dual connection feature supports connecting to two devices via classic Bluetooth (as shown in the Bluetooth settings of your devices). However, the Nothing X app can only connect to one device at a time. If you need to switch the Nothing X app to another device, please disconnect it from the current device first."
+Which device is controlled by gesture controls on CMF earbuds when connected to two phones?,"Gesture controls take effect on the device running the audio (music, video or call). When no audio is running on the connected devices, they take effect on the most recently connected device."
+Which phone's audio will CMF earbuds output when connected to two phones?,"1. When the earbuds are connected to two devices, and both mobile devices are in an idle state:
+a) The earbuds will output the sound corresponding to that phone if there is an incoming call or notification on either device.
+b) If one device starts playing music first, the earbuds will output the sound of the corresponding phone.
+
+2. When the earbuds are connected to two devices, and only one device is in the music-playing state:
+a) Incoming or outgoing calls on the device that is not playing music will mute the current music on the earbuds (without pausing) and switch to the sound of the incoming or outgoing device. After the call is ended, it will switch back to the connected device playing music.
+b) If the device not playing music starts playing music, there will be no sound channel switching. Both devices will remain in the playing state and the device that started playing music later will be in a muted state."
+How does CMF earbuds handle incoming calls when connected to two phones?,"1. When the earbuds are connected to two devices, and neither device is in a call state:
+The earbuds will output the ringing sound from the device that's receiving a call.
+
+2. When the earbuds are connected to two devices, and one of the devices is already in a call:
+The earbuds will play the incoming call alert and the earbud buttons will prioritise controlling the device that's receiving a call. If the earbuds hang up the current call, the audio channel will switch to the other device that's receiving a call.
+
+Note: please refer to the product instructions on the official CMF website or get in touch with our Customer Support."
+How do I trigger control gestures on CMF earbuds？,"To ensure proper use of the control gestures on your CMF earbuds, please follow these steps:
+
+1. Locate the touch sensor area: the touch sensor area is located at the circular graphic position above the earbud stem. Refer to the instruction manual inside the packaging for the precise location.
+
+2. Proper touch technique: make sure you accurately touch the sensor area to trigger the control gestures.
+
+Tips: due to the sensitivity of the touch sensor area, ensure your fingers do not touch the sensor area before you intend to activate a gesture. This helps prevent accidental triggers or misinterpretation of your intended action."
+How do I activate the Voice Assistant on CMF earbuds?,"By default, the control operations for this product do not include waking up the voice assistant. You can enable this function through the Nothing X app:
+
+1. Open the Nothing X app.
+2. Go to Controls.
+3. Select the left or right earbud.
+4. Set the gesture Tap & hold or Double tap & hold to trigger the Voice Assistant.
+
+After making these changes, you can use the specified gesture to wake up the Voice Assistant.
+
+For more operations, please download the Nothing X app from Google Play or the iOS App Store."

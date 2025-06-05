@@ -1,0 +1,32 @@
+﻿Questions,Answers
+Why does the Nothing X App frequently disconnect from the Watch?,"Some Android phones may automatically clean background apps during the night or regular use due to memory management mechanisms, which can vary by manufacturer. This can cause the watch to disconnect from the app. To prevent this, we recommend manually adding the Nothing X app to the Android background cleaning whitelist. For some models, long-press the app icon > **App Info** > **Battery** > **Unrestricted**. Consult your phone manufacturer for specific instructions.
+
+We suggest the following steps:
+
+1. **Check Background Running Permissions**:
+- In the Nothing X app, go to **My** > **Background Running Permissions** and ensure that background running permissions are enabled.
+
+2. **Adjust Phone Settings**:
+- In your phone's system settings, allow high background power consumption for the Nothing X app.
+- In the application and permission management section, allow the Nothing X app to auto-start.
+- For Android users, access the multi-task management interface (swipe up from the bottom of the screen or press the button), and lock the Nothing X app in the interface by selecting the top option.
+
+Note: The names or paths of the settings items for different mobile phone models or different versions of the same model may vary. You can view and set them in ""My - Background protection"". The specific steps shall be subject to the actual content of the device."
+Why can't I pair Ear (open) to my iPhone after reset?,"1. Open Settings on your iPhone.
+2. Tap on Bluetooth.
+3. Find the earphones you want to delete.
+4. Tap the 'i' icon next to the earphones.
+5. Tap Forget This Device.
+6. Confirm the action by tapping Forget Device in the pop-up.
+7. Open the Nothing X App to pair the earphones again."
+Why does the CMF Watch App frequently disconnect from the Watch?,"Some Android phones may automatically clean background apps during the night or regular use due to memory management mechanisms, which can vary by manufacturer. This can cause the watch to disconnect from the app. To prevent this, we recommend manually adding the CMF Watch app to the Android background cleaning whitelist. For some models, long-press the app icon > **App Info** > **Battery** > **Unrestricted**. Consult your phone manufacturer for specific instructions.
+
+We suggest the following steps:
+
+1. **Check Background Running Permissions**:
+- In the CMF Watch app, go to **My** > **Background Running Permissions** and ensure that background running permissions are enabled.
+
+2. **Adjust Phone Settings**:
+- In your phone's system settings, allow high background power consumption for the CMF Watch app.
+- In the application and permission management section, allow the CMF Watch app to auto-start.
+- For Android users, access the multi-task management interface (swipe up from the bottom of the screen or press the button), and lock the CMF Watch app in the interface by selecting the top option."

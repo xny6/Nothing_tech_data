@@ -1,0 +1,80 @@
+﻿Questions,Answers
+What is Spatial Audio Effect?,"Spatial Audio Effect is built based on the Head-Related Transfer Function (HRTF) model. The CMF Spatial Audio Effect algorithm creates cinematic-grade 3D spatial sound, providing a fully immersive listening experience with omni-directional sensation in the ear canal without limitations on audio sources, allowing users to enjoy a cinema-grade experience at any time. Please download the Nothing X app for configuration."
+How long is the battery life of CMF Buds Pro 2?,"AAC:
+- Playback with ANC off: 
+- Up to 43 hours with case
+- Up to 11 hours with buds only
+- Playback with ANC on / Transparency Mode:
+- Up to 26 hours with case
+- Up to 6.5 hours with buds only
+
+Talk Time:
+- Talk time with ANC off:
+- 25 hours with case
+- 6 hours with buds only
+- Talk time with ANC on / Transparency Mode:
+- 18.6 hours with case
+- 4.8 hours with buds only
+
+Test Conditions**: Measured under AAC mode at 50% volume. Charging and battery tests are based on internal results from Nothing’s labs (25°C or 77°F). Actual battery life may vary depending on volume, frequency, output source, environmental interference, product features used, and usage habits. Actual experience will depend on individual use.
+
+LDAC:
+- Playback with ANC off:
+- Up to 25 hours with case
+- Up to 6.5 hours with buds only
+- Playback with ANC on / Transparency Mode:
+- Up to 16.6 hours with case
+- Up to 4.3 hours with buds only
+
+Test Conditions: Measured under LDAC mode at 50% volume. Charging and battery tests are based on internal results from Nothing’s labs (25°C or 77°F). Actual battery life may vary depending on volume, frequency, output source, environmental interference, product features used, and usage habits. Actual experience will depend on individual use."
+What is the Smart ANC Algorithm?,"The Smart ANC algorithm automatically detects the current wearing status and external noise leakage through the earphones' in-ear detection whenever the earphones are in ANC ON mode. After detection, the earphones will automatically generate corresponding noise reduction parameters to optimize the current noise cancellation effect, providing the best noise cancellation experience for the user. This entire process runs automatically without user intervention.
+
+The algorithm operates under specific conditions; if the conditions are not met, the algorithm will not be triggered and will default to running with fixed strong noise reduction parameters. This ensures that the basic noise cancellation experience remains unaffected, so you can use it with confidence.
+
+For the algorithm to function correctly, please ensure the following conditions are met during wear:
+1. The default noise cancellation state after wearing needs to be ANC ON: You can switch to ANC ON state through the app or pressure-sensitive controls after wearing, then remove and re-wear the earphones to trigger the in-ear detection and the Smart ANC algorithm.
+2. To achieve noticeable noise cancellation improvement, ensure the ambient noise level is >65dB when triggering the detection.
+3. Avoid swallowing movements during the detection process.
+
+If you notice a difference in noise cancellation, you can remove and re-wear the earphones under the above conditions to trigger the algorithm detection."
+Can the charging case still charge the earbuds when it is low on battery?,"Yes, the charging case can still charge the earbuds when the battery is below 30% but above 1%. However, when the battery is below 1%, it cannot turn the earbuds on or off automatically, and the charging case button will not work either. It is important to charge the charging case as soon as possible."
+Does the CMF Buds Pro 2 Support Water/Dust Resistance?,"The earphones have an IP55 protection rating (level 5 dustproof and level 5 waterproof), based on the IEC 60529 testing standard, tested under controlled laboratory conditions. However, the charging case is not designed to be waterproof.
+
+The earphones are not designed for swimming or other water sports and should not be worn in the shower. If you experience physical training, heavy sweating, or splashing water while wearing the earphones, please wipe them clean with a soft, dry, lint-free cloth before placing them back in the charging case. Do not use heat or compressed air to dry the earphones.
+
+Please note that damage caused by immersion in liquid is not covered under the warranty."
+What Material is the CMF Buds Pro 2 Made Of?,"Plastic Casing: The earphones feature a high-quality plastic casing that offers excellent UV resistance and durability, as well as superior impact resistance.
+Silicone Ear Tips: For comfortable and secure fitting.
+Stainless Steel Hinges and Metal Knobs: Providing durability and a premium feel.
+Charging Case: The exterior of the charging case is coated with a rubber paint finish for a smooth and sleek appearance, while the earphones themselves are made of plastic material.
+These materials ensure the CMF Buds Pro 2 are both durable and comfortable for everyday use."
+Do the CMF Buds Pro 2 support custom EQ settings?,"Yes,you can customise the EQ for CMF Buds Pro 2."
+How long does it take for the CMF Buds Pro 2 earbuds to auto power off?,"When the earbuds are in an unconnected and unworn state, they will enter an auto power-off mode after 60 minutes (this duration may vary between products). To reactivate them, you need to manually place the earbuds back into the charging case.
+
+If the earbuds remain idle after being fully charged, they will enter a fully charged power-off state after 2 minutes."
+Which Bluetooth version do the CMF Buds Pro 2 use?,Bluetooth 5.3
+How Many Equalizers Does the CMF Buds Pro 2 Have?,"The CMF Buds Pro 2 are designed to provide a high-quality listening experience tailored to different audio preferences. The earbuds offer six equalizer presets:
+
+1. DIRAC OPTEO
+2. POP
+3. ROCK
+4. CLASSICAL
+5. ELECTRONIC
+6. ENHANCE VOCALS
+Additionally, there is a Custom option that allows users to set the equalizer according to their own preferences.
+
+More options are available in the Nothing X app.
+Please note that DIRAC OPTEO and HIGH-QUALITY AUDIO cannot be enabled simultaneously due to sampling rate limitations."
+What devices are compatible with CMF Buds Pro 2?,"Android 5.0 and above
+iOS 13 and above"
+Does CMF Buds Pro 2 support Google Fast Pair?,"Yes, Google Fast Pair is supported."
+Does CMF Buds Pro 2 support Microsoft Swift Pair?,"Yes, Microsoft Swift Pair is supported."
+What audio formats does CMF Buds Pro 2 support?,LDAC、AAC、SBC
+Does CMF Buds Pro 2 support LE Audio？,Not Support
+What is the function of the knob on the charging case?,"Charging case (Smart Dial)
+No function by default.
+Please set up the functionality in the Nothing X app for the Smart Dial to work.
+
+Smart Dial supports features triggered by rotating, single-click, double-click, triple-click, long-press and double-click. 
+The customisable functions include: volume control, switching noise cancellation mode, play/pause, skip back, skip forward, Voice Assistant, answer incoming calls, hang up/reject incoming calls, mute/unmute the microphone, turn on/off Low Lag Mode.
+After turning on the Smart Dial function, if you want to temporarily disable the Smart Dial function, Double tap & hold the Smart Dial for 1 second. When you hear the Prompt tone, it means that the Smart Dial is temporarily disabled successfully. If you want to restore the function, double tap & hold the Smart Dial for 1 second again or put the two earbuds back into the charging case then close and reopen the charging case for once to restore the function."

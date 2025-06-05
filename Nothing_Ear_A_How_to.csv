@@ -1,0 +1,58 @@
+﻿Questions,Answers
+How do I use the LDAC feature?,"LDAC high-definition audio can be likened to a ""highway"" between your phone and earbuds, supporting streaming rates of 990 kbps and a sample rate of 96 kHz with a bit depth of 24-bit. The high transmission bit rate allows high-resolution audio files to be less compressed, retaining more music details and noticeably improving sound quality.
+
+*This high-definition audio requires support from the paired device, and the selected codec needs to be activated on the device to take effect.
+
+For Android phones, first check if LDAC is enabled by default on your phone. If not, go to [Settings > Developer Options] to see if LDAC is supported. If your phone supports it, activate the phone's LDAC and make sure high-definition encoding is turned on in the Nothing X app, thus enabling LDAC high-definition audio encoding.
+*To ensure smooth playback of LDAC high-definition audio, it is recommended that when using this feature, 1) the default LDAC playback quality in the developer options is set to adaptive; 2) if the phone chooses a higher quality audio stream, it is advised to turn off dual connection functionality to ensure there is enough bandwidth for the LDAC high-definition stream.
+*Since iOS devices only support the AAC Bluetooth high-quality audio codec, for the time being, they cannot support other high-quality audio codecs."
+How do I download the Nothing X app?,"1. If using an Android device, download the Nothing X app by searching for it on Google Play.
+If using an iOS device, download the Nothing X app by searching for it on the App Store.
+
+2. You can also download the Nothing X app by visiting our website and scanning the QR code: https://intl.nothing.tech/pages/nothing-x-app-download.
+ The QR code is also available in the user guide inside the packaging or on the packaging box; simply scan it and download the app."
+How do I operate the control functions on Ear (a)?,"Music/standby
+Pinch to play or pause
+Double pinch to skip forward 
+Triple pinch to skip back
+Pinch and hold to switch between Active Noise Cancellation and Transparency Mode.
+
+Calls
+Pinch to answer or hang up a call.
+Double pinch to reject a call.
+
+More options in Nothing X app. 
+*Optional functions: play/pause, skip back, skip forward, switch noise cancellation mode, volume up, volume down and wake up Voice Assistant."
+How do I switch between the noise cancellation modes?,"Pinch and hold the press control for 1 second to switch between Active Noise Cancellation and Transparency Mode.
+
+You can also switch between different noise cancellation modes in the Nothing X app."
+How do I adjust the volume on Ear (a)?,"You can adjust the volume directly on your phone or use the ""Pinch and hold"" or ""Double pinch and hold"" gesture in the Nothing X app to control the earbud volume. 
+Pinch and hold for 1 second, adjust the volume (once triggered in the Pinch and hold state, the volume changes by one bar every 0.9 S, and stops rising when the Pinch control is released)."
+How do I reset Ear (a)?,Place both earbuds into the charging case and leave the case open. Press and hold the function button on the charging case for 10 seconds. The reset is complete when the red light flashes three times.
+How does the Dual Connection feature work?,"Re-connection:
+1. If Ear (a) has been paired with multiple devices, the earbuds will automatically connect to the device with the most recent connection when the charging case lid opens.
+2. If Ear (a) reconnects by returning to the Bluetooth connection range, it will automatically connect to the device with the most recent connection.
+
+Connection Priority:
+1. When no audio (music, video, or call) is running on the two connected devices A & B, Ear (a) can be manually connected to device C to play audio.
+2. When audio is running on only one device out of device A and device B, Ear (a) can replace the one without audio and manually connect to device C to play audio.
+3. If device A or B is on a call, Ear (a) cannot set up a new connection with a third device."
+How do gesture controls work when Dual Connection is enabled?,"Gesture controls will take effect on the device running the audio (music, video, or call). When no audio is running on the connected devices, it will take effect on the most recently connected device/the most recent device to run audio."
+How does audio output work for Ear (a) when Dual Connection is enabled?,"When no audio (music, video, or call) is running on the two connected devices:
+Ear (a) will play audio from the first device receiving the incoming call/making an outgoing call, or will play audio from the first device running music or video playback.
+
+When only device A is running music or video playback:
+1) Ear (a) will switch to device B if there is an incoming call or if device B is making an outgoing call. Calls take priority with Dual Connection. 
+Once the call on device B ends, Ear (a) will resume the music/video playback from device A.
+2) When device B starts playing music or video playback, Ear (a) will play audio from the first device running music or video service."
+How do calls work when Dual Connection is enabled?,"If neither device A & B are in a call, Ear (a) will play call audio from the device that first receives an incoming call.
+If device A has a call in progress, and you receive an incoming call on device B, Ear (a) will play the ringtone at the same time.
+If device A hangs up, Ear (a) will switch the call audio to device B.
+
+If you have any further questions about Dual Connection, please check the description on nothing.tech, or contact Nothing Customer Service."
+How do I trigger gesture controls on Ear (a)?,"Accurately press the area located at the side of the earbud. The exact location is also shown in the instruction manual.
+
+Note: The area is very sensitive so only press when you want to trigger a function to avoid false triggering or misinterpretation of operations."
+How do I activate the Voice Assistant on Ear (a)?,"The default control settings do not include waking up the Voice Assistant. To enable it, enter the ""CONTROLS"" section in the Nothing X app, choose either the left or right ear, and set the ""PINCH&HOLD"" or "" DOUBLE PINCH & HOLD"". Once enabled, the Voice Assistant can be activated on demand.
+
+For additional features, please download the Nothing X App from Google Play or the iOS App Store."
