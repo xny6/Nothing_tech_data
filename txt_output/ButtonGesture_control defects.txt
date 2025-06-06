@@ -1,0 +1,34 @@
+Why can't I switch to the previous or next song using gesture control?	Make sure you're touching the correct area on the earbuds. If the touch controls still don't work, try switching to a different music app to test if the feature functions properly.
+
+The touch commands are processed through this path: Earbuds > Device > App. Some apps may not support these control commands, which could result in the touch controls not responding.
+
+Please rest assured this doesn't indicate any fault with CMF earbuds.
+
+
+
+
+
+
+I have set CMF earbuds to use gestures for volume control. Why is this not working?	Rest assured this doesn't indicate any fault with CMF earbuds. Due to compatibility issues with Bluetooth protocol versions of devices, some phone and computer models may not support the volume control protocol. If you encounter this issue, try connecting the earbuds to another commonly used device to adjust the volume.
+
+
+
+
+
+
+Why can't I switch to the previous or next song using gesture control?	When the gesture function is triggered, it sends commands through to the app for processing. However, as some apps don't support switching commands, they won't respond to the earbuds' control commands, leading to ineffective gesture control. Rest assured this doesn't indicate any fault with Ear (open).
+
+Please also ensure you're pressing the correct control area on the earbuds. If still unable to trigger the function, try switching to a different music app to see if the function works.
+
+
+
+
+
+
+I have set Ear (open) to use gestures for volume control. Why is this not working?	Rest assured this doesn't indicate any fault with Ear (open). Due to compatibility issues with Bluetooth protocol versions of devices, some phone and computer models may not support the volume control protocol. If you encounter this issue, try connecting the earbuds to another commonly used device to adjust the volume. If the issue doesn't persist, it means the device, not Ear (open), needs checking.
+
+
+
+
+
+

@@ -1,0 +1,352 @@
+What is the device?   The device is Nothing Phone 2A, a smartphone.
+
+
+
+
+
+
+
+
+
+How long does it take to fully charge Phone (2a)?	The charging current of Phone (2a) depends on the temperature, which, in turn, affects charging. Both low and high temperatures slow down the charging speed. Chargers with different protocols have different charging speeds and charging times.
+
+For an optimal full charge, use a PPS protocol charger – ideally the Nothing charger – and charge the phone at room temperature (about 25°C±3°C) with the screen turned off for about 1 hour.
+
+
+
+
+
+
+Can I use other wireless chargers to charge Phone (2a)?	No, Phone (2a) doesn't support wireless charging.
+
+
+
+
+
+
+Can I use other wired chargers to charge Phone (2a)?	Yes, you can. For optimal charging, we recommend using a branded charger that supports the PPS protocol.
+
+
+
+
+
+
+Does Phone (2a) support fast charging?	Yes, Phone (2a) and PPS protocol support fast charging.
+
+
+
+
+
+
+At which temperature does Phone (2a) work best?	The charging current of Phone (2a) depends on the temperature, which, in turn, affects charging. Both low and high temperatures slow down the charging speed. 
+
+We recommend charging the phone at a temperature of 20 to 30°C.
+
+
+
+
+
+
+What's the battery capacity of the Phone (2a)? How long does it take to charge?	Battery capacity: 5000mAh
+
+The charging current of Phone (2a) depends on the temperature, which, in turn, affects charging. Both low and high temperatures slow down the charging speed. 
+
+Depending on the protocol, each charger has different charging speed and full charging time. For an optimal charge, we recommend 1) using a PPS protocol charger, 2) charging the phone at room temperature (e.g.: 25°C±3°C) with the screen turned off, and 3) using the Nothing charger for a full charge time of about 1 hour.
+
+
+
+
+
+
+What's a system update?	For the best possible experience, we release new system updates from time to time.
+
+Upgrading software to the latest version fixes software issues. In some cases, new features are added to optimise performance further. Please always update to the latest software version.
+
+To find the latest updates, go to Settings System System update.
+
+
+
+
+
+
+Do I need to restart my phone every day?	No, you don't need to restart Nothing Phone every day.
+
+
+
+
+
+
+How often should I shut down and restart my phone?	We recommend you manually restart your phone once a week. This helps the phone self-repair.
+
+
+
+
+
+
+How does dual SIM work?	- Dual cards can support two SIM cards at the same time, e.g. SIM cards of two same or DIFF operators.
+- Dual SIM means that two phone numbers can be used in a phone at the same time.
+- Dual SIM Dual Standby means that the two phone numbers can be in Standby Mode at the same time, but cannot perform Call or Data Access at the same time.
+
+
+
+
+
+
+What are the dimensions / weight of Phone (2a)?	See the dimensions/weight of the Phone (2a) below:
+
+Height: 161.74mm
+Width: 76.32mm
+Depth: 8.55mm
+Weight: 190g
+
+*The above is the data of the Nothing laboratory. The actual size and weight may differ due to the manufacturing process and measurement method.
+
+
+
+
+
+
+What's the screen parameter information of Phone (2a)?	Please see specs below: 
+
+Clarity: PPI 394
+Resolution: 1080*2412
+Brightness: normal 500nit, HBM 700nit, peak 1300nit
+
+
+
+
+
+
+What causes network connection failures during a call?	1. Ensure you're not in a congested network area.
+2. Try calling a different contact to see if the problem still occurs.
+3. Try a different SIM card.
+
+
+
+
+
+
+Does Phone (2a) have dual 4G modes?	Yes, Phone (2a) supports dual 4G mode, allowing both SIM cards 1 and 2 to connect to the 4G network simultaneously. However, only the primary-data SIM card can use data services.
+
+
+
+
+
+
+What is WiFi Direct?	WiFi Direct allows devices to connect and share files directly through WiFi at a range and speed beyond the capabilities of Bluetooth. Common uses of WiFi Direct: 1. Fast file sharing: WiFi Direct is an excellent way to quickly share large files with friends or groups when you can't connect to a wired connection. 2. Screen-casting and screen-sharing: share family photos on your TV or digital portrait, etc. For Nothing Phone, WiFi Direct is key for nearby sharing, screen-casting, etc. It can't handle the file transfer or screencast independently.
+
+
+
+
+
+
+What is the USB tethering feature and how do I use it?	USB Tethering means internet sharing. It makes your phone a WiFi router and allows you to share your phone's internet connection with the connected PC. Tethering works when your phone is connected to the internet via mobile data or a WiFi network. 1. Go to Settings > Network & internet > Hotspot & tethering > USB tethering. 2. Connect Nothing Phone to the computer with the USB cable. 3. Connect to WiFi with network access or insert the SIM card to Nothing Phone and connect to an available data network.
+
+
+
+
+
+
+What is OTG connection?	USB OTG (USB On The Go) is a standard that enables mobile devices to talk to one another. Traditionally mobile devices could only connect to a Mac / PC by USB, but USB OTG makes it possible for devices to connect directly to each other. USB OTG can help you read the data from the U disk, charge the phone at a low current, etc.
+
+
+
+
+
+
+What is the status bar?	The status bar is at the top of the phone display screen, where you can see different icons: time, battery percentage, etc.
+
+Swipe down once from the very top of the screen to access quick access. Swipe down twice for the control centre. It will give you instant access to the data network, WiFi, airplane mode, hotspot, Bluetooth, etc.
+
+
+
+
+
+
+Will my phone lose data when getting repaired?	We recommend you back up important data before sending your phone to the service center to prevent any potential loss of important information during the repair.
+
+
+
+
+
+
+What is USB debugging?	USB debugging is a developer mode for the phone to communicate with the PC over a USB connection. It allows a device to receive commands and files from the PC and allows the PC to pull crucial information like log files from the Android device. The USB debugging mode is off by default.
+
+
+
+
+
+
+What is data roaming?	Data roaming refers to the use of data services through a network that doesn't belong to the user's home region – such as browsing the internet, watching videos or sending emails on a phone while abroad. As data traffic is conducted over a foreign network, the fees are typically higher; ensure you confirm the costs in advance with your home carrier. 
+
+Note: to use data roaming, you need to enable the data-roaming feature beforehand (Settings > Network & internet > SIMs > Roaming).
+
+
+
+
+
+
+What is the Glyph Interface?	The Glyph Interface is designed with Glyph light strips on the back of the phone to provide users with a new way of communicating and interacting. All preset Nothing ringtones and notification sound effects have their special design Glyph patterns. In the new message notification, the Glyph Interface will follow the default pattern to light up the corresponding position. At the same time, it triggers sound and vibration effects.
+
+Note: the Glyph Interface may not be safe for individuals with epilepsy or other light-sensitive conditions.
+
+
+
+
+
+
+What is the Flip to Glyph feature?	For focus time, place the side with the Glyph Interface face up on a flat surface to trigger silent mode and Glyph Light-only alerts for notifications and incoming calls. When Flip to Glyph is activated, the Glyph Interface briefly pulse with light.
+
+
+
+
+
+
+How long is the in-box charging cable?	The charging cable is about 1 meter.
+
+
+
+
+
+
+Does Phone (2a) support wireless charging?	No, Phone (2a) doesn't support this feature.
+
+
+
+
+
+
+Does the Phone support eSIM?	No, Nothing Phone doesn't support this feature.
+
+
+
+
+
+
+What is the operating system?	Nothing OS with Android 14.
+
+
+
+
+
+
+What's included in the box for Phone (2a)?	Nothing Phone (2a)
+Type-C cable
+Safety information and warranty card
+Screen protector (pre-applied)
+SIM tray ejector
+
+
+
+
+
+
+How do I turn the camera-recording indicator light on/off?	Phone (2a) does not support the video-recording indicator light.
+
+
+
+
+
+
+What is the Bedtime Schedule under the Glyph Interface?	Bedtime Schedule lets you temporarily disable the Glyph Interface at set times and days to ensure that you're not disturbed at night time.
+
+
+
+
+
+
+What is the Find My Phone feature?	Find My Phone provides you with basic location services. After it is turned on, you can find the approximate location of your device and ring it. You must keep phone switched on, with the network turned on, and enable Find My Phone.
+
+Tip:
+If your lost phone is not turned on or Find My Phone is not enabled, you can contact the police for help as soon as possible. Freeze account information such as bank cards and Google Pay immediately to avoid more property losses.
+
+
+
+
+
+
+Will replacing the SIM card affect the Find My Phone feature?	No, as long as the phone is turned on and the network is normal, you can log in to any computer to use the Find My Phone feature.
+
+
+
+
+
+
+What do I do if I've lost my phone?	If your phone is lost, we suggest you call the police for help as soon as possible.
+
+You can also use the Nothing Find My Device function. To enable it, go to Settings>Security>Find My Device.
+
+Requirements:
+1. If you lose your phone, you need to log in to your Google account and enable the Find My Phone function.
+2. The lost mobile phone is turned on.
+3. The lost mobile phone is using data network or wireless network.
+
+
+
+
+
+
+What is Bluetooth tethering and how do I use it?	Bluetooth tethering is a method of sharing your phone's internet connection through Bluetooth.
+
+To use it:
+1. Go to Settings> Network & Internet> Hotspot & Tethering, and toggle on Bluetooth Tethering.
+2. Enable Bluetooth for the other device, pair the device, and connect your phone to the WiFi with network access.
+3. On your device, go to Settings> Bluetooth and tap the paired device.
+4. Toggle on Internet access.
+
+Note: Tethering works when your phone is connected to the Internet via mobile data or a WiFi network.
+
+
+
+
+
+
+Does the Phone support fingerprint unlock?	Yes,Nothing Phone supports fingerprint unlock.
+
+
+
+
+
+
+Does the Phone support face unlock?	Yes, Nothing Phone supports face unlock.
+
+
+
+
+
+
+Will the Phone support dual SIM?	Yes, it supports dual SIM.
+
+
+
+
+
+
+Is there expandable memory/storage on Nothing Phone?	No, Nothing Phone does not support expandable storage.
+
+
+
+
+
+
+Does Nothing Phone support WiFi 6?	Yes, it does.
+
+
+
+
+
+
+Is there a 3.5mm headphone jack on Nothing Phone?	No, there is no 3.5mm headphone jack on Nothing Phone.
+
+
+
+
+
+
+Is it harmful to not shut down my Phone for an extended period?	By not shutting down for a long time, Nothing Phone will slow down. This is because junk files are generated whenever the phone is in operation, and over time, this can clog the system.
+
+
+
+
+
+

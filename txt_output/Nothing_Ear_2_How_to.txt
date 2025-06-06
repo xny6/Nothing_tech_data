@@ -1,0 +1,121 @@
+What is the device?   The device is Nothing Ear 2, an eraphone.
+
+
+
+
+
+
+
+
+
+
+How do I change the press control gestures on Ear (2)?	Default press control settings:
+
+Music/standby
+Press to play or pause
+Double-press to skip forward 
+Triple-press to skip back
+Press and hold to switch between Active Noise Cancellation and Transparency Mode.
+
+Call
+Press to answer or hang up a call
+Double-press to reject a call
+
+For more operations, please download the Nothing X app. Available for download on Google Play and iOS App Store. The Nothing X app allows you to set more gestures to trigger different functions Including: volume up, volume down, voice assistant, skip forward, skip back and switching Active Noise Cancellation on, Active Noise Cancellation off, and Transparency mode.
+*All device customisations are already integrated into the Settings of Nothing OS version 1.1.4 and higher.
+
+
+
+
+
+
+What is the connection priority with devices when Dual Connection is enabled?	Re-connection:
+1. If Ear (2) has been paired with multiple devices, the earbuds will automatically connect to the device with the most recent connection when the charging case lid opens.
+2. If Ear (2) reconnects by returning to the Bluetooth connection range, it will automatically connect to the device with the most recent connection.
+Connection Priority:
+1. When no audio (music, video, or call) is running on the two connected devices A & B, Ear (2) can be manually connected to device C to play audio.
+2. When audio is running on only one device out of device A and device B, Ear (2) can replace the one without audio and manually connect to device C to play audio.
+3. If device A or B is on a call, Ear (2) cannot set up a new connection with a third device.
+
+
+
+
+
+
+How do gesture controls work when Dual Connection is enabled?	Gesture control will take effect on the device running the audio (music, video, or call). When no audio is running on the connected devices, it will take effect on the most recently connected device/the most recent device to run audio.
+
+
+
+
+
+
+How does audio output work for Ear (2) when Dual Connection is enabled?	When no audio (music, video, or call) is running on the two connected devices:
+Ear (2) will play audio from the first device receiving the incoming call/making an outgoing call, or will play audio from the first device running music or video playback.
+
+When only device A is running music or video playback:
+1) Ear (2) will switch to device B if there is an incoming call or if device B is making an outgoing call. Calls take priority with Dual Connection. 
+Then after the call on device B ends, Ear (2) will resume the music/video playback from device A.
+2) When device B starts playing music or video playback, Ear (2) will play audio from the first device running music or video service.
+
+
+
+
+
+
+How do calls work when Dual Connection is enabled?	If neither device A & B are in a call, Ear (2) will play call audio from the device that first receives an incoming call.
+If device A has a call in progress, and you receive an incoming call on device B, Ear (2) will play the ringtone at the same time.
+If device A hangs up, Ear (2) will switch the call audio to device B.
+
+If you have any further questions about Dual Connection, please check the description on nothing.tech, or contact Nothing Customer Service.
+
+
+
+
+
+
+How do I use voice assistant with Ear (2)?	Voice assistant is not supported by default gesture control. You can customise gesture control to support voice assistant in the Nothing X app.
+ 
+For more operations, please download the Nothing X App mobile app. Available for download on Google Play and iOS App Store. 
+*All device customisations are already integrated into the settings of Nothing OS devices, version 1.1.4 and higher.
+
+
+
+
+
+
+How do I adjust the volume?	The volume adjustment is not supported by default gesture control. You can customise gesture control to support volume in the Nothing X app.
+*All device customisations are already integrated into the settings of Nothing OS version 1.1.4 and higher.
+
+
+
+
+
+
+How do I reset Ear (2)?	To reset Ear (2), place the earbuds into the case, open the lid, and press the case button for 10 seconds. After the indicator flashes red three times, Ear (2) is reset.
+
+
+
+
+
+
+How to adjust the noise cancellation via press control?	Please open the Nothing X app and select Controls  PINCH & HOLD. Then select the noise cancellation modes you want to use.
+
+
+
+
+
+
+How to adjust the volume via press control?	Please open the Nothing X app and select Controls > PINCH & HOLD or DOUBLE PINCH & HOLD. You can then customise to adjust the volume.
+
+
+
+
+
+
+How do I do the hearing test?	Please open the Nothing X App. You can do the hearing test by either going to Device Settings > Personal Sound Profile. Or going to Equaliser and selecting the soundwave icon.
+
+
+
+
+
+

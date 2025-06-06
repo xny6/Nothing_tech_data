@@ -1,0 +1,613 @@
+What is the device?   The device is CMF Phone 1, a smartphone.
+
+
+
+
+
+
+
+How to track the status of the repair?	Please click on this link and input the required information to track the status of the repair.
+
+Note: Tracking the repair status are for those who applied online.
+
+
+
+
+
+
+How to restore deleted photos or videos?	Open the Photos app and navigate to Library on the bottom bar. Next, tap on "Bin" to see items deleted within the recent 60 days.
+
+
+
+
+
+
+How do I upgrade the software system online?	Go to Settings> System> System Update.
+
+If there is a new version, we recommend you download the latest Nothing OS software version using WiFi. Don't press the power button or perform any actions during the upgrade process, and wait for the update to be completed.
+
+If there is no new version, it means your phone has the latest version.
+
+
+
+
+
+
+How do I use the Hotspot feature?	Go to Settings> Network & Internet> Hotspot and Tethering> WiFi Hotspot.
+
+Note:
+When you use your Hotspot, your phone consumes a lot of energy, resulting in power-consumption and heat problems. This is normal but use mindfully.
+
+
+
+
+
+
+How do I delete a Google account in the system?	Go to Settings > Passwords and accounts > Personal, select the account you want to delete, click to open a new page, and click Remove account to delete it
+
+
+
+
+
+
+How do I use the app pinning function?	App pinnings allow you to keep the current app in view until you unpin it.
+When an app is pinned:
+- Personal data may be accessible (such as contacts and email content).
+- Pinned app may open other apps.
+- If you want to securely share your device with someone, use a guest user instead.
+
+To use app pinning:
+1. Turn the app pinning on.
+2. Open Overview.
+3. Click on the app icon at the top of the screen, then click on Pin.
+
+How to unpin:
+1. At the view of the pinned app, swipe up and hold to unpin.
+
+
+
+
+
+
+How do I manage my message notifications?	If you're getting too many notifications, manage your preferences as below:
+1. Turn off notifications in settings: go to Settings > Notifications > App settings, select the app whose that you want to manage notifications for.
+2. Quickly turn off notifications from the notification bar: swipe down the status bar on the notification page, long-press the notification content and click on Turn off notification. On the new page, select the notifications you want to turn off and click Done to finish.
+
+
+
+
+
+
+How to screen cast the Phone 1 to my TV?	1. To set up screen-casting, swipe down twice from the top of the screen to access the expanded quick settings. Press the edit (pencil) icon and drag the screen cast tile up from the hidden tiles.
+2. To begin the screen-cast (mirroring), swipe down to open the quick settings and find the newly added Screen recording tile. Click on it once and select the targeted device to cast to connect in the same local area network.
+
+
+
+
+
+
+How do I hide message details on the locks creen?	Go to Settings > Lock screen > Privacy to choose notification preview options.
+
+
+
+
+
+
+How do I know when a new software update is available?	You'll receive a notification when a new software update becomes available. You can also manually check for updates by going to Settings > About phone > Software info. If there is a new update available, a red icon will appear next to the Nothing OS label.
+
+
+
+
+
+
+How do I use the Find My Phone function if my phone is lost?	If you lose your phone, you can find, lock or erase it. If you've added a Google account to your device, Find My Phone is automatically turned on. If you allow Find My Phone to encrypt your phone's most recent location and store it with Google, your device’s most recent location is available to the first account activated on the device.
+
+To find a device, make sure you:
+- are signed in with a Google account on your device.
+- have the location opened.
+- have Find My Phone turned on
+- have power on and are connected to mobile data or WiFi.
+
+You can still find its recent locations if your device turned off or not connected to mobile data or WiFi and enable 'Store recent locations.'
+
+Important: if you find your device after you've erased data, you need your Google account password to use your device again. Learn about device protection.
+
+1. On a browser, go to https://www.google.com/android/find/.
+2. Sign in to your Google account.
+   - If you have multiple devices, select the lost one at the top of the sidebar.
+   - If your lost device has more than one user profile: sign in with a Google account that's on the main or personal profile. Learn about user profiles.
+3.The lost device gets a notification.  
+4.You'll get info about where the device is on the map.
+   - The location is approximate and may not be accurate.
+   - If your device can't be found, you may find its last known location if available.
+5. If you get a prompt, tap Enable lock and erase.
+6. Select what you want to do:
+   - Play sound: rings your device at full volume for 5 minutes, even if it's set to silent or vibrate.
+   - Secure device: locks your device with your PIN or password. If you don't have a lock, you can set one. To help someone return your device to you, you can add a message or device number to the lock screen.
+   - Erase device: permanently deletes all data on your device, but may not delete SD cards. After you erase it, Find My Phone won't work on the device any longer.
+
+
+
+
+
+
+How do I enable location services?	Location services can be activated in Settings > Location. When this switch is enabled, apps that require location services will request permission to access your location data when you first open the app.
+
+
+
+
+
+
+How do I change the language settings?	The language can be set on the first page of the setup page. It can also be changed in Settings > System > Languages and input.
+
+
+
+
+
+
+How do I enable USB debugging?	Go to Settings > About phone > Software info > Build number and click 7 times. After 'You are in developer mode' appears, turn on USB debugging in Settings > System > Developer Options >USB Debugging.
+
+
+
+
+
+
+How do I uninstall an app?	Please try the below:
+
+1. Swipe into the home page to open the application center on the mobile phone, long-press the corresponding app and select Uninstall. Alternatively, long-press the corresponding app, click on App info and Uninstall.
+2. Alternatively, go to Settings > Apps > See all apps. Click on the app you want to uninstall, and then select Uninstall.
+
+Note: 
+- Some built-in apps don't support uninstallation. 
+- Uninstalling the app will clear the app data; back up your data before uninstalling.
+
+
+
+
+
+
+How do I download the latest firmware?	Please go to Settings > System > System update and choose Check for update.
+
+
+
+
+
+
+How do I enable Dark Theme?	There are two ways to do this:
+
+1) Go to Settings > Display and enable the Dark Theme.
+2) Swipe down from the top of the phone to access the notification status bar. Then swipe down again to go to the control centre, and slide to tap Dark Theme icon to enable it.
+
+
+
+
+
+
+How do I hide notifications on the lock screen?	Please go to Settings > Notifications > Notifications on lock screen, then select 'Don't show any notifications.'
+
+
+
+
+
+
+How do I lock my apps?	Go to Settings > Apps > App locker, then select the app that needs locking.
+
+We suggest you protect your personal data by setting a screen lock password.
+
+
+
+
+
+
+How do I access Multiple Users from the lock screen?	Ensure if multi-user is enabled by going to Settings > System > Multiple users.
+
+After that, swipe down from the top of the lock screen to access quick settings and tap the user icon.
+
+
+
+
+
+
+How do I open the camera from the lock screen?	Go to Settings > System > Gestures, double-press the power button and select Camera.
+
+You can then quickly launch the camera from the lock screen by pressing the power button twice.
+
+
+
+
+
+
+How do I set an alarm?	1. Go to Settings > Apps > See all apps > Find clock and tap open. Tap the add icon to create a new alarm.
+2. Swipe down twice on your screen to access quick settings. Tap on Clock and go to Alarm. Tap the add icon to create a new alarm and adjust the below settings:
+
+- Repeat: select a time for your alarms to repeat between Monday to Sunday.
+- Label: add labels for your alarms.
+- Alarm sound: select a sound for your alarm.
+- Vibrate: turn vibration on/off.
+
+Tap on the More icon in the upper right corner and go to Settings:
+1. Silent After: automatically silence an alarm after a set period of time.
+2. Snooze length: set snooze length from 1 to 30 mins.
+
+Note: 
+1. You can set as many alarms as you want.
+2. The alarm sound will be ring even if the phone is in silent mode.
+
+
+
+
+
+
+How do I restrict apps from using network data in the background?	Long-press the app icon on the home screen and select App info > Mobile data & WiFi to disable background data.
+
+
+
+
+
+
+How do I switch between 4G and 5G?	Go to Settings > Network & internet > SIMs and choose the corresponding SIM card. Then select Preferred network type to switch to the network type you want.
+
+
+
+
+
+
+How do I reset my lock screen password?	To protect user privacy and information security, the lock screen password uses an irreversible algorithm. It does NOT support resetting lock screen passwords. 
+You must reset it by restoring your phone to factory defaults, which will erase all data you stored on your Nothing device. You may need to contact or visit your local Customer Support for further assistance.
+
+
+
+
+
+
+How do I clean up storage space?	One-tap optimisation:
+Go to Settings > Storage > Free up space > Clean, and your phone will detect and remove hidden temp (temporary folders or files), cookies and cache files generated.
+
+Clean by classification:
+Go to Settings > Storage > Free up space > Clean > Internal and remove the file you want from the phone.
+
+
+
+
+
+
+How do I set my lock screen password?	Go to Settings > Security & privacy > Device lock > Screen lock. You can then choose Swipe, Pattern, PIN or Password for the screen lock.
+
+Notice: If you or someone else inputs a wrong passcode multiple times, your device will be temporarily locked.
+
+
+
+
+
+
+How do I check my data usage?	Tracking how much data you use per day or month can help you avoid exceeding mobile data. 
+
+Go to Settings > Network & internet > SIMs and choose the corresponding SIM card. You can check the total data usage or choose App data usage to view which app you've used when.
+
+
+
+
+
+
+How do I enable airplane mode?	When airplane mode is on, your phone's wireless functions such as WiFi, Bluetooth and cellular data will be turned off by default.
+Go to Settings > Network & internet > Airplane mode and enable it. Alternatively, swipe down from the top of your screen to open the control centre and then tap the Airplane Mode icon.
+
+
+
+
+
+
+How do I clean up a file?	Swipe up the screen and open the application drawer. Open the Files app and choose what you want to clean.
+You can also download a clean-up app to help with file cleaning.
+
+Note: installing third-party cleaning apps may cause power consumption issues and other problems.
+
+
+
+
+
+
+How do I switch data used from SIM1 to SIM2?	Go to Settings > Network & internet > Internet, select the corresponding SIM card and enter the Mobile data settings to enable / close. You can choose to enable / disable mobile data.
+
+
+
+
+
+
+How do I clear browser history?	1. Go to the Browser app > Menu > History > Clear browsing data. Select the records to be deleted, tap [Clear data] to select the time period: last hour / last day / all. 
+2. Go to the Browser app > Menu > Settings > Privacy and security page, check the Clear browsing data and tap [Clear data] to remove all browser records.
+
+
+
+
+
+
+How do I set the time on my screen?	1. Go to Settings > System Date & time to access time settings, including the 24-hour system, and double tap it.
+2. Open the clock app, tap More in the top right corner, select Settings > Change time and go to the Date & time settings.
+
+Features:
+1. 24-hour system: the clock defaults to the 24-hour system. If the 24-hour system is unselected, the time will be displayed in the 12-hour system.
+2. Time zone: you can choose to set the time zone and time manually or automatically.
+
+
+
+
+
+
+How do I access geographical settings for photos?	Go to Camera > Settings > Save location. 
+
+Note: first check the status of the wireless network or data network, and then open the GPS to take the photo.
+
+
+
+
+
+
+How do I send images with MMS?	In the SMS app, tap the attachment icon and upload the image. It'll send over data network or WiFi.
+
+
+
+
+
+
+How do I use VoLTE (Voice Over LTE) video calling?	Follow the below steps: 
+
+Go to Contact and tap the contact you want to have video call with. Then tap the video call icon on the right side of the contact.
+
+Note: 
+1. Both parties need to support the VoLTE(4G Calling) function and video call function.
+2. VoLTE needs to be activated for you by the network carrier.
+3. VoLTE needs to be enabled on your phone.
+4. VoLTE needs to be supported by your local network. 
+5. Both of you need to be in the same VoLTE network (Jio and Jio, Vodafone and Vodafone).
+
+
+
+
+
+
+How can I extend my phone's battery life?	See our tips below:
+
+1. Charge your phone regularly.
+Don't deplete your phone's battery before charging. Doing so frequently will reduce the life of the lithium battery.
+2. Charge at a suitable temperature.
+The ideal temperature for charging is between 15°C and 35°C.
+3. Use the original charger. 
+The original charger and cable ensure a stable output of voltage and current, guaranteeing charging speed and safety. Inferior chargers and cables may have hidden safety hazards.
+4. Avoid using your phone when charging.
+5. Use a slim phone case for charging or, if using a thick case, remove it for charging.
+This is to avoid additional heating as the phone charges.  
+6. Avoid overcharging.
+If your phone is fully charged, the charger will be maintained in a full power state. This may cause battery deformation and leakage of fluid. The battery performance will also be significantly reduced.
+
+Don't charge your phone for more than 12 hours. Unplug the charger when the phone is fully charged.
+If you aren't using your phone for a long time, shut your phone down at around 40-80% power, place it in a cool and dry place and charge it regularly.
+
+
+
+
+
+
+How do I enable NFC on Phone 1?	Phone 1 doesn't support NFC.
+
+
+
+
+
+
+How do I use battery share?	Phone 1 doesn't support wireless battery sharing.
+
+
+
+
+
+
+Can I install and remove accessories myself and, if so, how?	All accessories are installed onto the phone using the decorative screw at the bottom right corner of the case. Users can install and remove them by themselves. The manual includes a detailed installation guide.
+
+
+
+
+
+
+What tools do I need to remove the case?	To remove the case, please use a 4-5mm slotted screwdriver to unscrew the four slotted screws on the case and use a SIM card ejector tool to remove the SIM tray. If you have purchased accessories, a special tool (a combined SIM card ejector and screwdriver) will be included.
+
+
+
+
+
+
+What should I be aware of when installing and removing the case?	Please ensure the following when removing and installing the case:
+
+1. Before removing the case, use a SIM card ejector tool to remove the SIM tray. Manually unscrew the knob screw at the bottom right corner of the case counterclockwise, then use a slotted screwdriver to remove the four external slotted screws on the case. Start removing the case from the SIM tray location.
+2. Please use a 4-5 mm slotted screwdriver to remove the external slotted screws on the case. Ensure the screwdriver is fully engaged in the slot to avoid scratching the case.
+3. Since the screws are not magnetic, please stow them away safely after removal to avoid losing them.
+
+
+
+
+
+
+If I remove the case myself, will my phone still be under warranty?	1. Phone 1 supports user removal and reinstallation of the case. If no other internal components are tampered with, it will remain within the warranty coverage.
+2. The phone has tamper-proof labels inside to prevent unauthorised disassembly that could cause damage. If these labels are damaged or missing, your warranty may be affected.
+
+
+
+
+
+
+Which parts of the phone can I disassemble? Which ones not?	1. The user-removable parts include only the following: the four external slotted screws on the case, the decorative screw at the bottom right corner of the case, the SIM tray, and the case. All other components should not be disassembled by the user.
+2. The phone has tamper-proof labels inside to prevent unauthorised disassembly and potential damage.
+
+
+
+
+
+
+How do I enable battery saver on my Phone?	Swipe down twice from the top of the screen to access the expanded Quick Settings. Press the pencil icon, drag the Battery Saver tile up from the hidden tiles, and toggle it on. You'll also receive a prompt you to turn on battery saver when the battery of your phone goes below 15%.
+
+
+
+
+
+
+How do I activate Find My Device on my Phone?	Find My Device will be automatically activated after you log into a Google account. However, the location can only be accessible if location services are toggled on. For more information, go to Settings> Google> Find My Device.
+
+
+
+
+
+
+How do I maintain my Phone?	Physical appearance： 1. Use a protective case, leather case, film, etc. to protect your phone. 2. Don't use excessive force on your phone and avoid bumping it with sharp or hard objects. 3. Ensure your phone doesn't get squeezed in tight pockets. 4. Pay attention to the use environment: don't keep your phone close to impurities, iron powder, and dust particles; don't let it come in contact with liquids and moisture; don't place it in cold environments or close to air conditioners. Performance: 1. We recommend charging your phone when it's on low battery. You don't need to recharge the battery every time. When charging your phone, use a safe and compliant charger and data cable to charge, and use the original battery. 2. We don't recommend to ROOT the firmware or OS on the phone. 3. Avoid using your phone while charging. 4. Don't use your phone for too long in the heat.
+
+
+
+
+
+
+How do I transfer data from my existing mobile phone (iPhone) to Nothing Phone?	Switch from an iPhone to a Nothing phone Step 1: Get ready to set up your new Nothing phone. Make sure you have the following items: 1. Your fully charged iPhone on the latest software and its charging cable. 2. Your new, fully charged Nothing phone. 3. A good WiFi connection. Important: we recommend using a Google account to ensure you can download apps and can get all content copied to your new device. Step 2: Prepare your iPhone On your iPhone, turn off iMessage and FaceTime. 1. While your SIM card is still in your iPhone, go to Settings > Messages > Turn off iMessage. 2. Then do the same for FaceTime. Go to Settings > FaceTime > Turn off FaceTime. 3. If you have other Apple devices, deregister your phone number from them too. You can continue using iMessage, but make sure your phone number isn’t still registered on those devices. If you already removed your SIM card, ask Apple to deregister your phone number with iMessage. Step 3: Insert your SIM card and connect to WiFi Now you're ready to set up your new phone. Turn on your Nothing phone and tap → in the setup wizard. You can change your phone’s language here, too. If you have a SIM card, insert it now and then connect to a WiFi or mobile network. If not, the data won’t copy from your old device to your new one. Step 4: Connect the phones When Copy Apps and Data appears on your screen, tap Next. 1. Turn your iPhone on and unlock it. Get the iPhone cable to charge your phone. 2. Plug the smaller end of the cable into your iPhone and the larger one into your Nothing phone. 3. On your iPhone, confirm it's OK to connect. 4. On your Nothing phone, enter your Google account password, and tap Sign in. When you copy data using a cable, your texts, photos, contacts, most apps and music will transfer. Step 5: Copy your data If you don’t want to transfer specific data, uncheck the box next to it. When you’re ready, tap Copy. Once your data is copied to your Nothing Phone, tap Finished. If one of your apps didn’t transfer, you can download it through the Google Play Store. Note: depending on how much data your phone has, the transfer can take anywhere between a few minutes to over an hour.
+
+
+
+
+
+
+How do I transfer data from my existing phone (Android) to Nothing Phone?	Switch from an Android to a Nothing phone Step 1: Get ready to set up your new Nothing phone. Make sure you have the following items: 1. Your fully charged Android phone on the latest software. 2. Your new, fully charged Nothing phone and its charging cable. 3. A good WiFi connection. Important: we recommend using a Google account to ensure you can download apps and can get all content copied to your new device. Step 2: Insert your SIM card and connect to WiFi. Once you're ready to set up your new phone, turn on your Nothing phone and tap → in the setup wizard. You can change your phone’s language here, too. If you have a SIM card, insert it now. Then connect to a WiFi or mobile network. If not, the data won’t copy from your old device to your new one. Step 3: Connect the phones When 'Copy apps and data' appears, tap Next. 1. Turn your Android phone on and unlock it. Get the cable you use to charge your Nothing phone and connect the two phones. 2. On your Android, confirm it’s OK to connect. 3. On your Nothing phone, enter your Google account password and tap Sign in. 4. When you copy data using a cable, your texts, videos, contacts, calendar and music will transfer. Step 4: Copy your data If you don’t want to transfer specific data, uncheck the box next to it. When you’re ready, tap Copy. Once your data is copied to your new Nothing phone, click on Finished. If one of your apps didn’t transfer, you can download it through the Google Play Store. Note: depending on how much data your phone has, the transfer could take a few minutes to over an hour.
+
+
+
+
+
+
+How do I change fonts on the Phone?	The font in Nothing Phone can't be changed. However, you can change the font size by going to Settings > Display > Font size.
+
+
+
+
+
+
+How do I block / blacklist numbers on the Phone?	1. Open the Phone Dialer app and tap the three-dot icon to the right of the search bar. 2. Next, go to Settings > Blocked numbers > Add a Number and block incoming calls and messages from the newly added number.
+
+
+
+
+
+
+How to enable call waiting on the Phone?	1. Open the app and click on the three-dot icon on the right side of the search column. 2. Go to Settings > Calling accounts > Additional settings and turn on the 'Call waiting' feature.
+
+
+
+
+
+
+How do I enable Game Mode on the Phone?	Nothing Phone features a built-in game mode, which allows for management of notification display preferences, touch error prevention, enhanced game graphics colours and a do-not-disturb mode during gaming to improve the gaming experience. Access it via Settings > System > Game mode. By default, game mode supports games that are directly downloaded and installed from the Play Store. Games downloaded from other sources will not be automatically added to game mode; they must be added manually as follows: Settings > System > Game mode > Apps > Add apps, then add the relevant game apps.
+
+
+
+
+
+
+How do I turn on / restart the Phone?	There are two ways to do so: 1. Combination keys Press and hold the Volume up and Power button at the same time to bring up the operation interface, which offers four options: Emergency, Lockdown, Power off and Restart. Click on Power off or Restart to turn off or reboot your phone. 2. Control center panel Slide down the status bar and pull down the control center panel, click the icon in the bottom-right corner to bring up the operation interface, with the same four options: Emergency, Lockdown, Power off, Restart. Click Power off or Restart to turn off or reboot your phone. Note: if the phone is frozen and the screen is unresponsive, you can force a shutdown by holding the power button for 15 seconds, or force a restart by long-pressing the power button for 15 seconds or more.
+
+
+
+
+
+
+How do I connect Nothing Ear to the Phone?	1. The Fast Pair feature launches on the Nothing Phone when you open an unpaired Nothing Ear case with the buds inside. Navigate through the Fast Pair setup to finish the pairing. 2. If Fast Pair doesn't appear, go to Settings > Connected devices > Pair new device to search for Nothing Ear. For more details, please refer to the Ear manual.
+
+
+
+
+
+
+How do I eject the SIM tray on the Phone?	Insert the provided SIM card remover tool into the hole next to the SIM tray, located on the bottom of the phone.
+
+
+
+
+
+
+How do I set and use the passcode on the Phone?	Go to Settings > Security & privacy > Device lock > Screen lock to choose your preferred unlocking method. Note: you'll need to set a pattern / PIN first to use fingerprint or Face unlock.
+
+
+
+
+
+
+How do I record on the Phone?	Launch the camera app and click on the video option on the mode selection bar.
+
+
+
+
+
+
+How do I add the Nothing Ear widget to the Phone?	Just like any other widget, the Nothing Ear widget can be accessible by long-pressing on an empty space in the home screen and selecting 'widget' in the pop-up menu. Next, scroll down to the Nothing Ear app and drag the widget out to the home screen.
+
+
+
+
+
+
+How do I use screen recording on my Phone?	1.To set up screen recording, swipe down from the top of the screen twice to access the expanded quick settings. Click on the edit (pencil) icon and drag the Screen record tile up from the hidden tiles. 2.To begin recording, swipe down to open the quick settings and find the newly added Screen record tile. Click on it once and confirm to begin recording after the three-second countdown, shown on the right side of the notification bar. 3.To finish recording, swipe down to open the notification center and click on Stop to save the recording. The file can be accessed via Google Photos > Library > Movies.
+
+
+
+
+
+
+How do I change the wallpaper and accent colours on my Phone?	Long-press the empty space of the home screen and go to Customisation > Wallpaper and style to change the wallpaper or color.
+
+
+
+
+
+
+How do I back up data on my Phone?	Nothing Phone uses Google's default backup process when connected to WiFi and left on standby for 2 hours to charge. If you need to back up now, go to Settings > Google > Backup and click the Back up now button.
+
+
+
+
+
+
+How do I turn Nothing Phone on?	Press and hold the power button until the Nothing logo appears on the display.
+
+
+
+
+
+
+How do I block people on my Phone?	There are two ways to do this: 1) Swipe up from the homescreen, tap on Contacts, select the relevant contact, then tap the 3 vertical dots icon > Block numbers > Block. 2) Tap on the Dialer app and go to Contacts, select the contact, then tap the 3 vertical dots > Block numbers > Block.
+
+
+
+
+
+
+How do I turn the Phone off?	Press the power button and volume+ button simultaneously, and a pop-up menu will be displayed. Then select Power to turn off the phone. Alternatively, swipe down from the top of the screen to access quick settings. Swipe down again to access the control centre and power button.
+
+
+
+
+
+
+How do I reset the Phone to factory settings?	Note: Performing a factory reset will clear all applications, contacts, text messages and other data in your phone, which can't be restored after the operation. Please be sure to back up important data and migrate chat history from third-party applications such as WhatsApp in advance. The path is as follows: Settings > System > Reset options > Erase all data (factory reset) To keep your personal information safe, you will need to verify your lock screen / Google account password if your phone has a lock screen password or is logged in with a Google account. Ensure you have good internet connection to verify the account password and then follow the on-screen prompts.
+
+
+
+
+
+
+How do I set up my dual SIM card for network / call / SMS?	Nothing Phone supports dual card dual standby. To efficiently manage the network behaviour of two SIM cards, we provide a SIM card management function. Tap Settings > Network & internet > SIM card, and select your data / call demand / SMS preferences.
+
+
+
+
+
+
+How do I use wireless casting?	Requirements: 1) The target device supports casting. 2) The target device and your phone are connected to the same WiFi. How to use it: 1) On the screen of the target device, such as a TV's, open the screen-cast application. 2) On Nothing Phone, go to Settings > Connect devices > Connection preferences > Casts and search for the targeted device to cast to.
+
+
+
+
+
+

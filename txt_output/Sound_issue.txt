@@ -1,0 +1,130 @@
+The microphone volume is low.	If the microphone on your Ear (1) is too quiet for others to hear you during phone calls, please try the following:
+1. Check if the call recipient has the volume of their device at an audible level.
+2. Ensure that you have the latest firmware installed.
+3. Record audio and playback to test the microphone for any issues.
+4. Check and confirm that no dirt is blocking the mics (there are 3 mics, accessed through the silver grills on each earbud).
+5. Disconnect and connect the earbuds.
+6. Reset the device.
+
+
+
+
+
+
+What should I do if one or both my earbuds are not working?	If audio is not playing from one or both earbuds, try the following:
+1. Try different apps to confirm if the problem is specific to the app on your chosen device.
+2. Ensure that the media volume is not low or muted on your device.
+3. Disconnect and reconnect the earbuds via Bluetooth.
+4. Reset the earbuds.
+
+
+
+
+
+
+What should I do if incoming volume is too low?	If the volume level is faint or quieter than normal, try the following: 1. Test different apps to determine if the problem is specific to an app or earphone. 2. Ensure that your device media volume is not too low, or raise the volume. 3. Disconnect and reconnect the earbuds. 4. Reset the device.
+
+
+
+
+
+
+What should I do if I can hear crackling or static sounds?	Try testing earphone in different environments to ensure this is not due to background noise. If you still experience some crackling or static sounds, please try the following: 1. Check if any of the 3 air holes inside the earbud are blocked. 2. Make sure you have the latest firmware version using the NOTHING X app. 3. Reset the device.
+
+
+
+
+
+
+Why is there noise when using a third-party app?	Check if the noise persists with other apps. If not, it is caused by the app compatibility.
+The audio file quality or media player performance may cause this issue. Switch to another file or audio source to confirm. If the issue cannot be resolved, take your device and proof of purchase to an authorised Nothing Service Centre for assistance.
+
+
+
+
+
+
+Why is there no sound when using third party app?	Check the volume settings. The connected device may have been muted, resulting in you being unable to hear any sound from your Ear (stick). If so, adjust the volume to an appropriate level.
+Check whether this issue persists with other apps. If not, adjust the sound settings under the specific app settings.
+Disconnect your Ear (stick) from your device. Place your Ear (stick) back into the charging case, close the charging case and open it after 5 seconds, and then connect your Ear (stick) to device again. If the issue cannot be resolved, take your device and proof of purchase to an authorised Nothing Service Centre for assistance.
+
+
+
+
+
+
+Why is Bass Lock not working?	Make sure in-ear detection is enabled. If this is off, Bass lock will be disabled.
+
+
+
+
+
+
+Why is there a sound output delay once the earbud is connected?	Due to the compatibility of some Bluetooth connections, there will be a sound delay with certain devices.
+If you have any further concerns, please contact Nothing Customer Service.
+
+
+
+
+
+
+Why does it take time for sound to play through my earbuds after they've connected to a device?	Due to compatibility issues with Bluetooth Fast Pair and Dual Connection features of some device systems, there may be occasional delays in sound output when you switch music channels or try to connect your device. The issue may occur with TWS Bluetooth earbuds on the market. This is a normal phenomenon and does not indicate any abnormality with the earbuds. Please feel free to use them with confidence.
+
+
+
+
+
+
+I'm not satisfied with the noise cancellation effect. What can I do?	Please download the Nothing X App and access the ANC settings in the app's Noise Control section. Additionally, the effectiveness of noise cancellation is heavily influenced by how the earbuds are being worn. Incorrect positioning or ill-fitting ear tips can affect the airtight seal and, consequently, the noise cancellation performance. We recommend trying different ear tips and adjusting the fit to ensure a snug and leak-free seal for the best noise cancellation experience. If you have any other concerns, please contact our Customer Service.
+
+
+
+
+
+
+Sound performance of earphone is not good, is there anything I can do?	The sound quality of earphone is tuned based on extensive user experiences and is at a relatively high industry standard. However, individual preferences for sound quality may vary. We recommend downloading the Nothing X App and accessing the Equaliser to choose preset sound effects. Additionally, you can customise the sound according to your personal preferences in the Custom settings.
+
+
+
+
+
+
+I'm not happy with the noise cancellation effect. What can I do?	CMF Buds Pro 2 supports active noise cancellation (ANC) up to 50dB. We recommend downloading the Nothing X app and checking the ANC settings under Noise Control. This setting offers multiple options such as "High," "Mid," "Low," and "Adaptive."
+
+We also advise that improper fitting of the ear tips can affect the noise cancellation seal, resulting in poor or ineffective noise cancellation. The earbuds come with different sizes of ear tips. We suggest trying different ear tips to find the best fit for optimal noise cancellation.
+
+For more precise adjustments and settings, please use the Nothing X app, available on Google Play and the iOS App Store.
+
+
+
+
+
+
+The sound quality of CMF Buds Pro 2 is not great. Is there anything I can do?	The sound quality of CMF Buds Pro 2 is tuned based on extensive user experiences and is at a relatively high industry standard. However, individual preferences for sound quality may vary. We recommend downloading the Nothing X App and accessing the Equalizer page to choose preset sound effects. Additionally, you can customise the sound according to your personal preferences in the Custom settings.
+
+
+
+
+
+
+Why does it take time for sound to play after Ear (open) has connected to a device?	Due to compatibility issues with Bluetooth Fast Pair and Dual Connection of some device systems, there may be occasional delays in sound output when you switch music channels or try to connect your device. Please rest assured this doesn't indicate any fault with Ear (open).
+
+
+
+
+
+
+The sound performance of Ear (open) isn't great. Is there anything I can do?	The sound quality of Ear (open) is based on extensive user experiences, at a relatively high industry standard. However, individual preferences for sound quality may vary. We recommend downloading the Nothing X App and accessing the Equaliser to choose preset sound effects. Additionally, you can customise the sound according to your personal preferences in the Custom settings. For an optimal sound experience, ensure you're not in a noisy environment as Ear (open) doesn't support ANC.
+
+
+
+
+
+
+The sound quality of CMF earbuds is not great. Is there anything I can do?	The sound quality of CMF earbuds is tuned based on extensive user experiences and is at a relatively high industry standard. However, individual preferences for sound quality may vary. We recommend downloading the Nothing X App and accessing the Equaliser page to choose preset sound effects. Additionally, you can customise the sound according to your personal preferences in the Custom settings.
+
+
+
+
+
+

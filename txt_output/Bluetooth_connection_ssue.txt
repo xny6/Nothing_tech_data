@@ -1,0 +1,226 @@
+What should I do if my Nothing earphone won't connect?	If you are unable to pair a Bluetooth device (i.e. mobile phone, tablet or laptop) to your earphones, try the following: 1. Ensure that your device's Bluetooth is turned on and in visible mode. 2. Ensure that your earphone is within 10 meters (33 feet) of the Bluetooth device. 3. Reset the earbuds. 4. On your device, scan for available Bluetooth connections. 5. Be sure to perform the pairing process correctly. 6. Clear your product memory of previously-connected Bluetooth devices and repeat the process.
+
+
+
+
+
+
+What should I do if my Nothing earphone keeps disconnecting?	If you earbuds keep disconnecting, try the following: 1. Make sure your device is not too far from the earbuds. It should be within 10 meters (33 feet). 2. Try moving indoors. Environment might affect the signal when outdoors. 3. Remove any major obstacles between your device and the earbuds. 4. If the problem persists, reset the earbuds.
+
+
+
+
+
+
+Why can't my earphones connect to the Nothing X App during calls with iOS devices?	The app connection is set via BLE (Bluetooth Low Energy) protocol for iOS devices. During a call, the system's communication bandwidth is fully used to serve the call as a high priority. It is normal to be unable to connect to the app at this time. If you have any further concerns, please contact Nothing Customer Service.
+
+
+
+
+
+
+Why can't my device find my lost earbud?	There may be a Bluetooth logic problem with the phone. You can turn the Bluetooth off and on, restart the phone, and try to search again.
+
+
+
+
+
+
+Why can't Ear (2) connect with the Nothing X app after reset?	If you are an iOS device user, please follow the steps below:
+1. Open Settings in your iOS device, and select Bluetooth to confirm whether Ear (2) is in the list devices. If yes, please tap the "i" icon and select " Forget This Device"
+2. Open the Nothing X app and follow the steps to connect to Ear (2) again.
+
+
+
+
+
+
+What should I do if Ear (a) doesn't automatically connect/reconnect to my device?	1. When connected to multiple devices, the earbuds will prioritise reconnecting with the last device connected upon powering on again. Please confirm if the last device used is the one you are currently using.
+2. If the earbuds leave the charging case and don't find the last connected device within 1 minute, they will enter a timeout state. To exit it, place the earbuds back into the case, close the lid for 5 seconds and then reopen to initiate a new connection.
+3. Perform a factory reset by holding the function button on the charging case for 10 seconds or more, and then pair the earbuds again.
+4. If the issue remains unresolved, please download and update to the latest software using the Nothing X App.
+
+Note: All device customisations are already integrated into the settings of Nothing OS version 1.1.4 and higher. Please keep the Nothing X app updated via the Google Play Store.
+
+
+
+
+
+
+What should I do if my earphone does not reconnect to a device within the Bluetooth range?	1. The earbuds will automatically disconnect when the Bluetooth connection exceeds the range. If you return to the connection range within 10 minutes, they will automatically reconnect successfully. If they stay outside of the connection range for more than 10 minutes, they will enter a timeout state without a connection. You can manually reconnect by placing the earbuds into the charging case, closing the charging case for 5 seconds, and then opening the charging case to power on the earbuds and initiate the connection again. 2. Long-press the function button on the charging case for 5 seconds and reset to factory settings - complete when the indicator light flashes red for 10 seconds. Then re-pair for use. 3. If the issue remains unresolved, please download and upgrade to the latest version of the Nothing X App and try again.
+
+
+
+
+
+
+Why can't I see earphone in my phone's Bluetooth list?	1. Since Bluetooth device searching is an interactive process between a phone and a pair of earbuds, the phone side may have Bluetooth logic issues that hinder the search for earphones. This phenomenon is not an issue with the earbuds. You can try turning the phone's Bluetooth off and then on again, or restart the device and try searching again. 2. If the problem persists, place both earbuds in the charging case, close the lid, and wait for more than 30 seconds to allow the earbuds to reboot, or place them in the case and open the lid, then long-press the function key for more than 10 seconds to restore to factory settings before trying again.
+
+
+
+
+
+
+What can I do if PIN code error is displayed while pairing my Watch Pro with my phone?	1. If your Watch Pro is paired with another mobile device, disconnect it first before pairing it with your phone. If you are still unable to pair the Watch Pro, you can try resetting it to factory settings before pairing it again. 2. If the above instructions cannot resolve your issue, press the button on the Watch Pro to enter Settings--System Menu, then click Restart. Or, press and hold the button, then click Restart and check again. 3. To experience the latest firmware features, you can upgrade the firmware to the latest version in the CMF Watch app. To do this, open the CMF Watch app, go to the Device page, and click Device Upgrade. 4. If the above steps do not resolve the issue, press the button on Watch Pro to enter Settings--System Menu. Click Reset. Then, check again to see if the issue is resolved.
+
+
+
+
+
+
+What can I do if my phone cannot detect my Watch Pro's Bluetooth?	1. Make sure that the Watch Pro's Bluetooth is not connected to another phone. 2. To rule out any problems with your phone or other device, confirm that your phone or other device can detect other Bluetooth devices in the Bluetooth settings list. 3. If the above instructions do not solve the issue, press the button on the Watch Pro to enter Settings--System Menu, then click Restart. Or, press and hold the button, then click Restart and check again. 4. To experience the latest firmware features, you can upgrade the firmware to the latest version in the CMF Watch app. To do this, open the CMF Watch app, go to the Device page, and click Device Upgrade. 5. If the above steps do not resolve the issue, press the button on Watch Pro to enter Settings--System Menu. Click Reset. Then, check again to see if the issue is resolved.
+
+
+
+
+
+
+Why is my device not finding the Buds while in pairing mode?	1. The device search process is an interaction between your phone and the earbuds. There might be Bluetooth logic issues on the phone side, causing it to be unable to find the earbuds. This is not an issue with the earbuds. Try turning off and then turning on your phone's Bluetooth, or restart your phone and try searching again.
+
+2. If the problem persists, place both earbuds in the charging case, close the lid, and wait for more than 30 seconds to let the earbuds hard reset. Alternatively, you can open the lid, press, and hold the function button for more than 10 seconds to perform a factory reset and then try pairing again.
+
+
+
+
+
+
+Why don't the earbuds automatically reconnect to my phone when the charging case is low on battery?	1. When the charging case is low on battery, it cannot charge the earbuds but can still attempt to reconnect them. We recommend closing the lid, waiting for 2 seconds, and then reopening it.
+
+2. When the charging case battery is extremely low, it cannot charge the earbuds or facilitate reconnection. Recharging the case will restore normal functionality.
+
+We strongly recommend charging the charging case as soon as possible when the battery is low.
+
+
+
+
+
+
+Why does my CMF Buds Pro 2 reconnect to only one device after moving out of range and coming back?	For user experience considerations, when in dual connection mode, if the earbuds disconnect due to exceeding the connection range and then return within range, they will not automatically reconnect to the second device if the earbuds are currently in a music, call, or meeting state. This behavior is not an earbud malfunction, so please use them with confidence.
+
+
+
+
+
+
+What can I do if my phone cannot detect my Watch Pro's Bluetooth?	1. **Check for Other Connections**:
+- Ensure that the watch's Bluetooth is not connected to another phone.
+2. **Bluetooth Functionality**:
+- Verify that your phone can search for other Bluetooth devices in the Bluetooth settings list to rule out any issues with the phone itself.
+3. **Other Device Connections**:
+- Confirm if other devices are currently connected to the watch.
+4. **Restart the Watch**:
+- If the above steps do not resolve the issue, press the Functional Crown on the watch to enter **Settings** > **System Menu** > tap **Restart** or long-press the crown and select **Restart** and check again.
+5. **Firmware Upgrade**:
+- In the CMF Watch app, go to the **Device** page and select **Device Upgrade** to update the firmware to the latest version.
+6. **Reset the Watch**:
+If the above steps do not resolve the issue, press the Functional Crown on the watch to enter **Settings** > **System Menu** > tap **Reset** and check if the issue is resolved.
+
+
+
+
+
+
+Why does the iPhone keep prompting "Forget Device" after connecting to CMF Buds?	If you encounter the "Forget Device" prompt on your iPhone after connecting CMF Buds to iOS, please follow the steps below:
+
+
+
+
+
+
+What should I do if Ear (open) doesn't automatically connect/reconnect to my device?	1. Upon powering on, the earbuds reconnect with the most recently connected device. You'll be asked to confirm if the last device used is the one you're currently using.
+2. If the earbuds leave the charging case and don't find the last connected device within 1 minute, they enter a timeout state. To exit it, place the earbuds back into the case, close the lid for 5 seconds and then reopen it to initiate a new connection.
+3. Perform a factory reset by holding the function button on the charging case for 10 seconds or more, and then pair the earbuds again.
+4. Update to the latest software using the Nothing X App.
+
+Note: all device customisations are already integrated into the settings of Nothing OS version 1.1.4 and higher. Please keep the Nothing X app updated via the Google Play store.
+
+
+
+
+
+
+What should I do if Ear (open) doesn't reconnect to a device within the Bluetooth range?	1. The earbuds automatically disconnect when the Bluetooth connection exceeds the range. If you return to the connection range within 10 minutes, they automatically reconnect. If they stay outside of the connection range for more than 10 minutes, they enter a timeout state without a connection. You can manually reconnect them. Simply place the earbuds into the charging case, close it for 5 seconds and then open the charging case to power on the earbuds and initiate the connection .
+2. Long-press the function button on the charging case for 5 seconds and reset to factory settings – complete when the indicator light flashes red for 10 seconds. Then pair again.
+3. If the issue remains unresolved, please download and upgrade to the latest version of the Nothing X App and try again.
+
+
+
+
+
+
+Why can't I see Ear (open) on the Bluetooth list on my phone?	1. This is not to do with Ear (open) but rather with your phone. Turn your phone's Bluetooth off and on, or restart your device to try and establish a connection.
+2. If the problem persists, place both earbuds in the charging case, close the lid and wait for 30 seconds to allow the earbuds to reboot. Alternatively, place them in the case and open the lid and long-press the function key for at least 10 seconds to restore to factory settings. Then try connecting again.
+
+
+
+
+
+
+I've connected Ear (open) to both my phone and laptop, and am using the earbuds for online meetings on my laptop. Why does the phone call audio come from the phone when I receive a call?	Due to compatibility issues, certain computers or online meeting platforms may repeatedly attempt to take over the audio connection, causing your sound to default back to the online meeting.
+
+To resolve this:
+1) Configure the online meeting app to utilise a non-Bluetooth audio channel.
+2) Should the earbuds fail to relay audio from the online meeting, manually reselect the Bluetooth AG channel in the meeting software. Alternatively, re-pair the earbuds by placing them in the case for 5 seconds and then reopen the case to reconnect.
+
+
+
+
+
+
+What should I do if CMF earbuds doesn't reconnect to a device within the Bluetooth range?	1. The earbuds automatically disconnect when the Bluetooth connection exceeds the range. If you return to the connection range within 10 minutes, they automatically reconnect. If they stay outside of the connection range for more than 10 minutes, they enter a timeout state without a connection. You can manually reconnect them. Simply place the earbuds into the charging case, close it for 5 seconds and then open the charging case to power on the earbuds and initiate the connection .
+2. Long-press the function button on the charging case for 5 seconds and reset to factory settings – complete when the indicator light flashes red for 10 seconds. Then pair again.
+3. If the issue remains unresolved, please download and upgrade to the latest version of the Nothing X App and try again.
+
+
+
+
+
+
+Why can't I see CMF earbuds on the Bluetooth list on my phone?	1. Turn your phone's Bluetooth off and on, or restart your device to try and establish a connection.
+2. If the problem persists, place both earbuds in the charging case, close the lid and wait for 30 seconds to allow the earbuds to reboot. Alternatively, place them in the case and open the lid and long-press the function key for at least 10 seconds to restore to factory settings. Then try connecting again.
+
+
+
+
+
+
+I've connected CMF earbuds to both my phone and laptop, and am using the earbuds for online meetings on my laptop. Why does the phone call audio come from the phone when I receive a call?	Due to compatibility issues, certain computers or online meeting platforms may repeatedly attempt to take over the audio connection, causing your sound to default back to the online meeting.
+ 
+To resolve this:
+1. Configure the online meeting app to utilise a non-Bluetooth audio channel.
+2. Should the earbuds fail to relay audio from the online meeting, manually reselect the Bluetooth AG channel in the meeting software. Alternatively, re-pair the earbuds by placing them in the case for 5 seconds and then reopen the case to reconnect.
+
+
+
+
+
+
+Why don't the earbuds automatically reconnect to my phone when the charging case is low on battery?	1. When the charging case is low on battery, it cannot charge the earbuds but can still attempt to reconnect them. We recommend closing the lid, waiting for 2 seconds, and then reopening it.
+
+2. When the charging case battery is extremely low, it cannot charge the earbuds or facilitate reconnection. Recharging the case will restore normal functionality.
+
+We strongly recommend charging the charging case as soon as possible when the battery is low.
+
+
+
+
+
+
+What can I do if my phone cannot detect my 24463's Bluetooth?	1. **Check for Other Connections**:
+- Ensure that the watch's Bluetooth is not connected to another phone.
+2. **Bluetooth Functionality**:
+- Verify that your phone can search for other Bluetooth devices in the Bluetooth settings list to rule out any issues with the phone itself.
+3. **Other Device Connections**:
+- Confirm if other devices are currently connected to the watch.
+4. **Restart the Watch**:
+- If the above steps do not resolve the issue, press the Functional Crown on the watch to enter **Settings** > **System Menu** > tap **Restart** or long-press the crown and select **Restart** and check again.
+5. **Firmware Upgrade**:
+- In the Nothing X app, go to the **Device** page and select **Device Upgrade** to update the firmware to the latest version.
+6. **Reset the Watch**:
+If the above steps do not resolve the issue, press the Functional Crown on the watch to enter **Settings** > **System Menu** > tap **Reset** and check if the issue is resolved.
+
+
+
+
+
+

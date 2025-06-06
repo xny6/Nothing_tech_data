@@ -1,0 +1,243 @@
+What is the device?   The device is Nothing Ear Open, an earphone.
+
+
+
+
+
+
+
+
+
+
+What's the battery life of Ear (open)?	Continuous music playback: 
+Up to 30 hours with case and 8 hours with buds only
+
+Continuous communication time: 
+24 hours with case and 6 hours with buds only
+
+Note: the battery life was tested at the Nothing laboratories at a temperature of 25℃, with the earbuds and charging case fully charged, AAC music playback at 50% volume and other features at default settings. The actual result may differ based on device settings, environment, usage and other factors.
+
+
+
+
+
+
+Does Ear (open) support fast charging?	Yes, Ear (open) supports fast charging. With a 10-minute charge, the earbuds can be used continuously for up to 2 hours with earbuds only (5.5 hours earbuds and case).
+
+Note: the battery life was tested at the Nothing laboratories at a temperature of 25℃, with the earbuds and charging case fully charged, AAC music playback at 50% volume and other features at default settings. The actual result may differ based on device settings, environment, usage and other factors.
+
+
+
+
+
+
+Does Ear (open) support wireless charging?	No, it doesn't support wireless charging.
+
+
+
+
+
+
+What's the battery capacity of Ear (open)?	Each earbud has a 64 mAh battery and the case has a 635 mAh battery.
+
+
+
+
+
+
+Does Ear (open) support Dual Connection?	Yes, it supports Dual Connection.
+
+Note: once the device connections have been established, you can select or switch devices in the Dual Connection settings via the Nothing X App.
+
+
+
+
+
+
+Does Ear (open) support ANC?	No, it doesn't support ANC.
+
+
+
+
+
+
+Does Ear (open) support in-ear detection?	No, it doesn't support in-ear detection.
+
+
+
+
+
+
+What do the colours on the charging case mean?	Charging
+Flashing white: charging or pairing
+Steady white: fully charged
+
+Battery status
+No light: very low 
+Red for 3 seconds: less than 30%
+White for 3 seconds: more than 30%
+Flashing red three times: reset
+
+
+
+
+
+
+Can I use just one of the earbuds?	Once Ear (open) is paired with your device, you can use a single earbud. Please note, the initial pairing can only be done with both earbuds.
+
+
+
+
+
+
+How many devices can Ear (open) be paired with？	Ear (open) can store records for up to 8 devices at maximum capacity.
+
+
+
+
+
+
+Do the earbuds charge properly when the charging case is low on battery?	The earbuds charge until the charging case falls below 1% battery. However, when the charging case has nearly depleted, the indicator LED won't turn on, and the charging case button won't respond. Please recharge the charging case promptly in this case.
+
+
+
+
+
+
+Is Ear (open) resistant to water/dust?	Ear (open) is rated IP54 for water and dust resistance under IEC standard 60529. The water and dust resistance is not permanent and may decrease over time.
+
+We don't recommend wearing Ear (open) when showering, taking a bath or swimming. If your earbuds come into contact with any liquids, such as rain or sweat, use a dry, lint-free cloth to wipe them clean. Please don't use the earbuds or place them back in the charging case until they are completely dry.
+
+Note: the warranty doesn't cover damage to the device caused by immersion in liquid.
+
+
+
+
+
+
+What's Ear (open) made of?	Ear (open) is encased in a plastic housing, with a silicone ear hook and stainless steel hinge. The plastic shell is crafted from high-quality materials, providing lasting resistance to UV exposure and excellent impact resistance.
+
+
+
+
+
+
+Does Ear (open) support custom EQ settings?	Yes, Ear (open) supports custom EQ settings.
+
+
+
+
+
+
+How long does it take for the earbuds to automatically power off when inactive?	The earbuds automatically power off after 4 hours of inactivity when not connected and not worn (the duration may vary slightly between different devices). To power them on again, place the earbuds back into the charging case. If the earbuds are fully charged and not in use for more than 2 minutes, they enter a timeout mode.
+
+
+
+
+
+
+Which Bluetooth version does Ear (open) use?	Bluetooth 5.3
+
+
+
+
+
+
+How many equaliser settings does Ear (open) have?	Ear (open) aims to provide a tailored, high-quality listening experience for music enthusiasts. There are four sound effects: BALANCED, MORE BASS, MORE TREBLE and VOICE. It also allows you to set custom effects based on your preferences. Explore additional options in the Nothing X app.
+
+
+
+
+
+
+What is ENC?	ENC stands for Environmental Noise Cancellation. It's specially tuned to remove unwanted background noise when you use the microphone for calls. ENC ensures others won't hear your background noise when you're speaking.
+
+
+
+
+
+
+Which devices are compatible with Ear (open)?	Android 5.1 and above.
+iOS 13 and above.
+
+
+
+
+
+
+Does Ear (open) support Google Fast Pair?	Yes, Ear (open) supports Google Fast Pair.
+
+
+
+
+
+
+Does Ear (open) support Microsoft Swift Pair？	Yes, Ear (open) supports Microsoft Swift Pair.
+
+
+
+
+
+
+What audio formats does Ear (open) support?	Ear (open) supports AAC and SBC.
+
+
+
+
+
+
+Does Ear (open) support LE Audio？	No, Ear (open) doesn't support LE Audio.
+
+
+
+
+
+
+How do I charge Ear (open)?	Earbuds 
+Place the earbuds in the charging case and close the case to charge.
+
+Charging case with earbuds
+Place the earbuds in the charging case, close the case and connect it to a power supply using the supplied power cable.
+
+Note: when the indicator lamp on the case flashes white, the case is charging. Once the light is steady white, the case is fully charged.
+
+
+
+
+
+
+Do the earbuds fall out easily during daily wear?	Compared to traditional in-ear earbuds, Ear (open) features an innovative ear-hook design and has undergone rigorous testing to identify ear support points, for comfortable wear and stability. Ear (open) is also designed to be worn during outdoor activities such as running, cycling and yoga.
+
+
+
+
+
+
+Is Ear (open) sweat-resistant?	Ear (open) offers a certain degree of sweat protection but we recommend wiping any sweat off promptly to keep the earphones dry.
+
+
+
+
+
+
+Can I use Ear (open) while wearing glasses?	Yes, you can use Ear (open) while wearing glasses and adjust the earbuds to your preferred fit.
+
+
+
+
+
+
+How does Ear (open) perform during exercise?	Compared to traditional in-ear earbuds, Ear (open) features an innovative ear-hook design and has undergone rigorous testing to identify ear support points, for comfortable wear and stability. Ear (open) is also designed to be worn during outdoor activities such as running, cycling and yoga.
+
+
+
+
+
+
+Does Ear (open) cause allergic reactions, redness, swelling or itching when worn?	Our ear hooks are made from liquid silicone and have passed multiple harmful substance tests, including RoHS and REACH, as well as skin irritation and sensitivity tests, to rule out any health risks.
+
+
+
+
+
+

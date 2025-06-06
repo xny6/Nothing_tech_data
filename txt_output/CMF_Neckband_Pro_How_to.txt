@@ -1,0 +1,98 @@
+What is the device?   The device is CMF Neckband Pro, an eraphone.
+
+
+
+
+
+
+Does the Neckband Pro support wireless charging?	The Neckband Pro doesn't support wireless charging. Please charge the earphones with a Type-C cable.
+
+
+
+
+
+
+Does the Neckband Pro support fast charging?	With a 10-minute charge, the earphones play music back continuously for 18 hours. With ANC turned on, the earphones provide 11 hours of continuous music playback. Test conditions: Music playback in AAC mode at 50% volume. Charging and battery tests are based on experiments conducted by Nothing (at a temperature of 25°C or 77°F). Actual battery life is influenced by factors such as volume, frequency, output source, environmental interference, product features and user habits. Actual experience will depend on individual usage.
+
+
+
+
+
+
+What is the battery life of the Neckband Pro?	When in music mode with ANC mode turned off, the earphones play music back for up to 37 hours. When in music mode with ANC/transparency mode turned on, the earphones play music back for up to 23 hours. When in music mode with Transparency Mode on, the earphones play music back for up to 22 hours. When in call mode with ANC turned off, the earphones can be used continuously for up to 20.5 hours. When in call mode with ANC turned on, the earphones can be used continuously for up to 18.5 hours. When in call mode with Transparency Mode on, the earphones can be used continuously for up to 19 hours. Testing conditions: AAC mode, music playback at 50% volume. Charging and battery tests are based on testing conducted by Nothing (at a temperature of 25°C or 77°F). Actual battery life depends on factors such as volume, frequency, output source, environmental interference, product features and usage habits. Actual experience will vary based on individual usage.
+
+
+
+
+
+
+How do I activate the voice assistant on the Neckband Pro?	The Neckband Pro's default control settings do not include waking up the voice assistant. To enable it, enter the Control section in the Nothing X app, choose to set gestures like Double Press or Triple Press to trigger the voice assistant. Once enabled, the voice assistant can get activated on demand. For additional features, please download the Nothing X App from Google Play or the iOS App Store.
+
+
+
+
+
+
+What happens when the Neckband Pro is connected to two mobile devices and I receive incoming calls?	1. When the earphones are connected to two mobile devices, and neither device is in a call state: a) The earphones will output the ringing sound from the device that's receiving a call. 2. When the earphones are connected to two mobile devices and one of the devices is already in a call: a) If a call comes in on the non-calling mobile device, the earphones will play the incoming call alert, and the earphone buttons will prioritise controlling the incoming call device. If the earphones hang up the current call, the audio channel will switch to the incoming call on the other device. Note: Please refer to the product instructions on the official CMF website or get in touch with our Customer Support.
+
+
+
+
+
+
+Which phone will play back sound when the Neckband Pro is connected to two phones?	1. When the earphones are connected to two devices, and both devices are in an idle state: a) The earphones will output the ringing sound from the device that's receiving a call. b) If one device starts playing music first, the earphones will output the sound of the corresponding phone. 2. When the earphones are connected to two devices, and only one device is in the music-playing state: a) Incoming or outgoing calls on the device that is not playing music will mute the current music on the earphones (without pausing) and switch to the sound of the incoming or outgoing device. After the call is ended, it will switch back to the connected device playing music. b) There is no sound channel switching if the device not playing music starts playing music. Both devices will remain in the playing state, and the device that started playing music later will be in a muted state.
+
+
+
+
+
+
+Which phone does the gesture control function operate on when the Neckband Pro is connected to two phones?	The button operation controls the device from which the current earphones are outputting sound. If the earphones are not playing sound, it controls the last connected device or the last device that produced sound through the earphones (call, music, alert tones, etc.).
+
+
+
+
+
+
+How does the Neckband Pro's dual-connectivity feature work?	1. When the charging case is opened, the earphones will automatically power on and reconnect. 1.1 If you have less than two devices connected and the Buds are powered on, they will auto-reconnect in the state of dual connectivity. The reconnect targets the last two connected devices. If it's the first time the earphones are enabling dual connectivity and there are no previous reconnect records, the earphones will stay in single-device connection mode (no pairing occurs and the pairing process for new devices needs to be manually triggered by the user holding down the button). If the earphones fail to reconnect to other devices, they will remain in single-device connection mode (no pairing). 1.2. If the earphones are out of range, auto-reconnection will only work for the phone that was out of range. 1.3. Auto-reconnection will not be triggered when the earphones are in an active state (during a call or music playback). 1.4. If the earphones are in the process of auto-reconnection and in an active state (during a call or music playback), the earphones will pause the auto-reconnect for 5 seconds. If the active state is exited within the reconnect timeout, the earphones will resume the paused auto-reconnect until the reconnect timeout is reached (calculated from the first auto-reconnect trigger). 2. Connection priority (connection snatch): When in dual-connectivity mode, the earphones can be snatched by another device and the following applies: 2.1. When neither of the two connected phones is in music playback state, the earphones will disconnect from the initially connected phone and connect to the device initiating the connection snatch. 2.2. When the earphones enter pairing mode with a new device, and if they are currently connected to two devices, the earphones will disconnect from one of the connected devices during the pairing process. After one of the devices has been disconnected, it becomes discoverable and can be connected to the new device. 2.3 If the earphones are currently connected to two devices, and a third device with a connection record initiates a connection snatch, the earphones will disconnect from one of the connected devices. After disconnecting from one device, it can be snatched by the third device initiating the connection snatch. Note: 1. Music playback: 1.1 If one of the two connected phones is in the music playback state, the earphones will disconnect from the phone not in the music playback state and then connect to the device initiating the connection snatch. 1.2 If both phones are in the music playback state, the earphones will disconnect from the phone that is not producing sound (i.e. the device in a muted music playback state) and connect to the device initiating the connection snatch. 2. Call State: 2.1 If any of the two connected phones is in a call state, connection snatching will not occur.
+
+
+
+
+
+
+How do I reset the Neckband Pro?	After separating the left and right earbuds, simultaneously press and hold the Smart Dial and function button for 5 seconds. The reset is completed when the indicator light flashes red for 2 seconds.
+
+
+
+
+
+
+How do I adjust the volume on the Neckband Pro?	Rotate the Smart Dial to adjust the volume: Anticlockwise rotation: Decrease volume. Turn clockwise: Increase volume. Optional functions: skip back, skip forward, switch noise cancellation mode and wake up Voice Assistant. Additional options available in the Nothing X app.
+
+
+
+
+
+
+How do I switch between the noise cancellation modes?	Long-press the Smart Dial to switch between Active Noise Cancellation and Transparency Mode. You can also change between the different noise-cancellation modes in the Nothing X app.
+
+
+
+
+
+
+How do I operate the control functions on the earphones?	Operations Smart Dial Long press: Switch between Active Noise Cancellation and Transparency Mode. Press: Pause/continue music when music is being played. Answer or hang up a call. Double press: Play the next song. Reject an incoming call. Triple press: Play the previous song. Rotate: Anticlockwise rotation: Decrease volume. Turn clockwise: Increase volume. *Additional options available in the Nothing X app. Optional functions: skip back, skip forward, switch noise cancellation mode and wake up Voice Assistant.
+
+
+
+
+
+
+How do I download the Nothing X app?	1. If using an Android device, download the Nothing X app by searching for it on Google Play. If using an iOS device, download the Nothing X app by searching for it on the App Store. 2. You can also download the Nothing X app by visiting our website and scanning the QR code: https://intl.nothing.tech/pages/nothing-x-app-download. The QR code is also available in the user guide inside the packaging or on the packaging box; simply scan it and download the app.
+
+
+
+
+
+

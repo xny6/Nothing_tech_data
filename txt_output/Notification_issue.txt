@@ -1,0 +1,89 @@
+When receiving a call, why does my Watch Pro sometimes show the name of the caller, and sometimes show the number?	1. Make sure that the CMF Watch app is connected to the Watch Pro. 2. Make sure that the contact has been added to the contact list in the CMF Watch app. To do this, follow these steps:Open the App, go to Device, then Contacts, and select "Add Contact". For added contacts, the name and phone number will be displayed. For unadded contacts, only the number will be displayed. 3. If the above instructions cannot resolve your issue, press the button on the Watch Pro to enter Settings--System Menu, then click Restart. Or, press and hold the button, then click Restart and check again. 4. To experience the latest firmware features, you can upgrade the firmware to the latest version in the CMF Watch app. To do this, open the CMF Watch app, go to the Device page, and click Device Upgrade. 5. If the above steps do not resolve the issue, press the button on Watch Pro to enter Settings--System Menu. Click Reset. Then, check again to see if the issue is resolved.
+
+
+
+
+
+
+What can I do if my Watch Pro does not receive messages after I connect it to an iOS phone?	1. Make sure that the Watch Pro is connected to the app and to Bluetooth. 2. Check the notification reminder settings in the CMF Watch app to see if the message reminder switch is turned on, and if the notifications for third-party apps such as WhatsApp or Facebook are enabled. 3. In order for your Watch Pro to receive notifications of new messages from apps on your phone, the app must display a pop-up notification on your phone when it receives a new message. 4. If the above instructions do not solve the issue, press the button on the Watch Pro to enter Settings--System Menu, then click Restart. Or, press and hold the button, then click Restart and check again. 5. To experience the latest firmware features, you can upgrade the firmware to the latest version in the CMF Watch app. To do this, open the CMF Watch app, go to the Device page, and click Device Upgrade. 6. If the above steps do not resolve the issue, press the button on Watch Pro to enter Settings--System Menu. Click Reset. Then, check again to see if the issue is resolved.
+
+
+
+
+
+
+What can I do when my Watch Pro does not vibrate or flash the screen to notify me of messages or calls?	This issue may be caused by several factors. Please follow the steps below to troubleshoot: 1. Do Not Disturb is still enabled. --To check if Do Not Disturb mode is enabled, open the control center pull-down menu on your Watch Pro or in the CMF Watch app. 2. The notification settings in the app are not configured correctly. --Check whether the "Only display notifications when phone screen is off" option is enabled in the "Notifications" settings in the CMF Watch app. If it is, disable it and check again. --In the Display or Notifications settings on your phone, check whether the Wake Up Screen for Notifications feature is enabled. If it is, disable it and check if the issue is resolved. 3. If the settings are correct and the issue is still not resolved, press the button on the Watch Pro to enter Settings--System Menu, then click Restart. Or, press and hold the button, then click Restart and check again. 4. To experience the latest firmware features, you can upgrade the firmware to the latest version in the CMF Watch app. To do this, open the CMF Watch app, go to the Device page, and click Device Upgrade. 5. If the above steps do not resolve the issue, press the button on Watch Pro to enter Settings--System Menu. Click Reset. Then, check again to see if the issue is resolved.
+
+
+
+
+
+
+Why won't my Watch Pro receive message notifications?	How message push works: When the CMF Watch app is connected to your Watch Pro via Bluetooth, it will push notifications from the phone status bar to your Watch Pro, reminding you that there are new messages on your phone.When notification messages are not displayed on your phone's status bar (including apps that are not displayed because they are encrypted by the system), even if the apps on your phone receive new messages, the phone will not push the messages to your device. Here are some things you can try if you are not receiving reminders: 1. Make sure that the Watch Pro is connected to the CMF Watch app and to the phone's Bluetooth. 2. Ensure that display of messages on your phone's status bar is enabled.Go to notification management in your phone's notification settings, tap on the app you need notifications from, and select "Allow notifications". 3. Check the notification reminder settings in the CMF Watch app to see if the message reminder switch is turned on, and if the notifications for third-party apps such as WhatsApp or Facebook are enabled. 4. Check if permission to run in the background is enabled in the CMF Watch app - My - Permission to run in the background. 5. Complete the following operations in your phone's settings: - Go to "Background power consumption management"in your phone's system settings, select the CMF Watch app, and enable the "High background power consumption" setting. - Go to application and permission management in your phone's system settings, select the CMF Watch app, and enable the automatic startup setting. - Android users can enter the multi-task management interface (by swiping up from the bottom of the screen or clicking the button), and select the upper part of the CMF Watch app thumbnail in the interface to lock the CMF Watch app. Some phones automatically clean up background apps, which may cause Watch Pro to lose connection with the app. If you encounter this issue, it is recommended that you manually add the CMF Watch app to the background cleanup whitelist. For some phone models, you can do this by long-pressing the app icon >> App Info >> Battery >> Unrestricted. For the specific path, you will need to consult your phone manufacturer. Note: When your phone is in the chat interface, chat messages will not be pushed to Watch Pro.For example, if you are using your phone to chat on WhatsApp, WhatsApp messages will not be pushed to Watch Pro.
+
+
+
+
+
+
+Why isn't my watch receiving message notifications?	Notification Push Principle:
+When the CMF Watch app is connected to your device via Bluetooth, it pushes notifications from your phone's status bar to your device, alerting you to new messages. If notifications do not appear in the phone's status bar (including applications encrypted by the system), new messages received by the phone will not be pushed to your device.
+
+If you are not able to receive notifications, try the following steps:
+
+1. **Check Connections**:
+- Ensure that the watch is connected to the CMF Watch app and that Bluetooth is connected to your phone.
+
+2. **Allow Notifications**:
+- Ensure that messages can be displayed in the phone's status bar. In your phone's notification management settings, tap on the app you need notifications from and set it to "Allow notifications."
+
+3. **Check Notification Settings in CMF Watch App**:
+- Ensure that message notifications are enabled in the CMF Watch app and that third-party applications like WhatsApp/Facebook have notification settings enabled.
+
+4. **Background Running Permissions**:
+- In the CMF Watch app, go to **My** > **Background Running Permissions** and ensure that background running permissions are enabled.
+
+5. **Phone Settings**:
+- In your phone's system settings, allow high background power consumption for the CMF Watch app.
+- In the application and permission management section, allow the CMF Watch app to auto-start.
+- For Android users, access the multi-task management interface (swipe up from the bottom of the screen or press the button), and lock the CMF Watch app in the interface by selecting the top option.
+
+#### Handling Automatic Background App Cleaning:
+Some phones automatically clean background apps, causing the watch and app to lose connection. If this occurs, manually add the CMF Watch app to the background cleaning whitelist. For some models, long-press the app icon > **App Info** > **Battery** > **Unrestricted**. For specific instructions, consult your phone manufacturer.
+
+**Note**: When your phone is in an active chat interface, chat messages will not be pushed to the device. For example, if you are actively chatting on WhatsApp, WhatsApp messages will not be pushed to the device.
+
+
+
+
+
+
+Why isn't my watch receiving message notifications?	Notification Push Principle:
+When the Nothing X app is connected to your device via Bluetooth, it pushes notifications from your phone's status bar to your device, alerting you to new messages. If notifications do not appear in the phone's status bar (including applications encrypted by the system), new messages received by the phone will not be pushed to your device.
+
+If you are not able to receive notifications, try the following steps:
+
+1. **Check Connections**:
+- Ensure that the watch is connected to the Nothing X app and that Bluetooth is connected to your phone.
+
+2. **Allow Notifications**:
+- Ensure that messages can be displayed in the phone's status bar. In your phone's notification management settings, tap on the app you need notifications from and set it to "Allow notifications."
+
+3. **Check Notification Settings in Nothing X app**:
+- Ensure that message notifications are enabled in the Nothing X app and that third-party applications like WhatsApp/Facebook have notification settings enabled.
+
+4. **Phone Settings**:
+- In your phone's system settings, allow high background power consumption for the Nothing X app.
+- In the application and permission management section, allow the Nothing X app to auto-start.
+- For Android users, access the multi-task management interface (swipe up from the bottom of the screen or press the button), and lock the Nothing X app in the interface by selecting the top option.
+
+#### Handling Automatic Background App Cleaning:
+Some phones automatically clean background apps, causing the watch and app to lose connection. If this occurs, manually add the Nothing X app to the background cleaning whitelist. For some models, long-press the app icon > **App Info** > **Battery** > **Unrestricted**. For specific instructions, consult your phone manufacturer.
+
+**Note**: When your phone is in an active chat interface, chat messages will not be pushed to the device. For example, if you are actively chatting on WhatsApp, WhatsApp messages will not be pushed to the device.
+
+
+
+
+
+

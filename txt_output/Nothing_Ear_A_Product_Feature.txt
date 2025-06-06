@@ -1,0 +1,228 @@
+What is the device?   The device is Nothing Ear A, an eraphone.
+
+
+
+
+
+
+
+
+
+
+What is the battery life of Ear (a)?	CONTINUOUS MUSIC PLAYBACK TIME: 
+ANC OFF: 9.5 hours buds only, 42.5 hours buds + case
+ANC ON/Transparency Mode: 5.5 hrs buds only, 24.5 hrs buds + case
+
+CONTINUOUS COMMUNICATION TIME: 
+ANC OFF: 5.2 hours buds only, 23 hours buds + case
+ANC ON/Transparency Mode: 4 hours buds only, 18 hours buds + case
+
+The battery life data was tested in Nothing laboratories at a temperature of 25℃ with the earbuds and charging case fully charged, AAC music playback at 50% volume, and with other features at default settings. The actual result may differ based on device settings, environment, usage and other factors.
+
+
+
+
+
+
+Does Ear (a) support fast charging?	Yes, Ear (a) supports fast charging. After 10 minutes of charging, the earbuds can be used continuously for up to 3.2 hours with ANC OFF earbuds only (10 hours earbuds + case), or 2 hours with ANC ON earbuds only (6 hours earbuds + case).
+
+The battery life data was tested in Nothing laboratories at a temperature of 25℃ with the earbuds and charging case fully charged, AAC music playback at 50% volume, and with other features at default settings. The actual result may differ based on device settings, environment, usage and other factors.
+
+
+
+
+
+
+Does Ear (a) support wireless charging?	No, it does not support wireless charging.
+
+
+
+
+
+
+What is the battery capacity of Ear (a)?	Each earbud has a 46 mAh battery and the case has a 500 mAh battery.
+
+
+
+
+
+
+Does Ear (a) support Dual Connection?	Yes, Ear (a) supports Dual Connection.
+*After the device connections have been established, you can select or switch devices in "Dual Connection" settings via the Nothing X app.
+
+
+
+
+
+
+Is Ear (a) water/dust resistant?	Ear (a) earbuds are rated IP54 for water and dust resistance, under IEC standard 60529.
+The water- and dust-proof performance is not permanent, and protection may decrease due to wear over time.
+We do not recommend wearing the earbuds when showering, taking a bath, or swimming. If your earbuds come into contact with any liquids, such as rain or sweat, use a dry, lint-free cloth to wipe them clean.
+Please do not use the earbuds or place them back in the charging case until they are completely dry.
+Note: Damage to the device caused by immersion in liquid is not covered by the warranty.
+
+
+
+
+
+
+Does Ear (a) have ANC?	Yes, Ear (a) has Active Noise Cancellation, reaching up to 45 dB.
+
+
+
+
+
+
+What does the colour of the charging case indicator mean?	Charging: flashes white
+Fully charged: steady white
+Pairing: flashes white
+Battery status: 
+Extreme low: no light
+Battery< 30%: red for 3 seconds
+Battery>=30%: white for 3 seconds
+Reset: flashes red three times
+
+
+
+
+
+
+Can I use just a single earbud?	After successfully pairing Ear (a) with the device, you can use a single earbud. Please note, the initial pairing cannot be done with only one earbud.
+
+
+
+
+
+
+What is Ear (a) made of?	The construction features a plastic housing, silicone ear tips and a stainless steel hinge. The plastic shell is crafted from high-quality materials, providing lasting resistance to UV exposure and excellent impact resistance.
+
+
+
+
+
+
+How many devices can Ear (a) be paired with？	Ear (a) can store records for up to 8 devices at maximum capacity.
+
+
+
+
+
+
+What is Bass Enhance?	The algorithm dynamically detects low-frequency signals in music, enhancing the impression of low frequencies in real-time to deliver a more powerful and dynamic bass experience.
+
+Users can also adjust the low-frequency intensity based on their listening preferences in the Nothing X app, defining their own high-definition bass experience. Additional options available in the Nothing X app.
+
+
+
+
+
+
+What is "Adaptive" in Noise Control?	Adaptive Mode monitors the noisiness of your environment and adjusts the noise cancellation accordingly, for the optimum audio experience.
+
+
+
+
+
+
+What is Smart ANC?	The Smart ANC algorithm can automatically detect the level of external noise leakage whenever the earbuds are placed in the ears with ANC Mode on. This is influenced by ear-insertion behaviour during wear. Following the completion of the detection, the earbuds generate noise reduction parameters tailored to optimise the current noise-canceling effect, providing users with the optimum noise-canceling experience. This process runs automatically without user intervention, adapting to usage conditions.
+
+*The algorithm's operation is contingent on certain scenario conditions, and will not be activated if not fulfilled. If not activated, a default strong noise cancellation with fixed parameters will run, which will not affect the fundamental noise cancellation experience, ensuring reliable use.
+**To ensure the algorithm operates correctly, please pay attention to the following conditions during wear:
+1. After wearing the earbuds, the default noise cancellation state should be in ANC ON: You may switch to ANC ON through the app or a pressure-sensitive control after wearing, then take off and re-wear the earbuds to initiate the in-ear detection and activate the Smart ANC algorithm.
+2. For significant noise cancellation improvement, the environmental noise should be greater than 65 dB when detection is triggered by wearing.
+3. Refrain from swallowing actions while wearing the earbuds.
+
+If you perceive a difference in noise cancellation effectiveness, you can remove the earbuds and put them back in under the above conditions to prompt the algorithm.
+
+
+
+
+
+
+Will the earbuds charge properly when the charging case is in low-battery status?	The earbuds will charge until the charging case falls below 5% battery. However, when the charging case has nearly depleted, the indicator LED will not display, and the charging case button will be unresponsive. In such cases, please recharge the charging case promptly.
+
+
+
+
+
+
+Does Ear (a) support custom EQ settings?	Yes, Ear (a) supports this feature.
+
+
+
+
+
+
+How long do the earbuds take to automatically power off when inactive?	The earbuds will automatically power off after 60 minutes of inactivity when not connected and not worn (the duration may vary between different products). To restore functionality, place the earbuds back into the charging case. If the earbuds are fully charged and left unused, they will enter a timeout shutdown mode after 2 minutes.
+
+
+
+
+
+
+Which Bluetooth version does Ear (a) use?	Bluetooth 5.3.
+
+
+
+
+
+
+How many equaliser settings does Ear (a) have?	Ear (a) aims to provide a tailored, high-quality listening experience for music enthusiasts. There are four sound effects:  BALANCED, MORE BASS, MORE TREBLE, and VOICE. It also allows users to set custom effects based on their preferences. Explore additional options in the Nothing X app.
+
+
+
+
+
+
+What is ENC?	ENC stands for Environmental Noise Cancellation. It's specially tuned to remove unwanted background noise when you use the microphone for calls. ENC ensures others won't hear your background noise when you're speaking.
+
+
+
+
+
+
+Which devices are compatible with Ear (a)?	Android 5.1 and above
+iOS 13 and above
+
+
+
+
+
+
+Does Ear (a) support Google Fast Pair?	Yes, Ear (a) supports this feature.
+
+
+
+
+
+
+Does Ear (a)  support Microsoft Swift Pair？	Yes, Ear (a) supports this feature.
+
+
+
+
+
+
+What audio formats does Ear (a)  support?	Ear (a) supports LDAC, AAC and SBC.
+
+
+
+
+
+
+Does Ear (a) support LE Audio？	No, Ear (a) does not support this feature.
+
+
+
+
+
+
+How do I charge Ear (a) ?	Earbuds: Put the buds in the charging case and close the case to charge.
+Charing case with earbuds: Put the buds in the charging case and close the case, connect the case to a power supply through the power cable delivered with the buds.
+If the indicator lamp of the case is flashing white, the case is charging. If it is permanently white, the case is fully charged.
+
+
+
+
+
+

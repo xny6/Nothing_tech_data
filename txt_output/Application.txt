@@ -1,0 +1,233 @@
+What do I do when an unresponsive prompt pops up when you're using an app?	Please try the following: 
+
+1. Clear all background apps to ensure that the phone has enough memory.
+2. Restart the phone and then reopen the app.
+3. Go to Settings> Apps> See all Apps> Find the App> Storage & Cache> Clear Storage and Clear Cache. 
+4. Check if your phone and the application have the latest system or version. If not, upgrade them to the latest.
+
+If the issue persists, contact the Nothing Support Team for further assistance.
+
+
+
+
+
+
+My app won't connect to the internet. What can I do?	Possible causes:
+
+1. The app doesn't have permission to access the data network.
+2. App error.
+3. System error.
+
+Solutions:
+
+1. Check if the app has network permission.
+2. Uninstall and reinstall the app.
+3. Restart the phone or restore the phone to factory settings. 
+4. Test whether the app works on other phones. If not, please contact the developer for assistance.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+Third-party apps are affecting internet speed. What can I do?	Please try the below:
+
+1. Check whether there is a third-party security software that can control the network speed. 
+2. Check whether your phone is connected to a VPN. If so, disconnect from it. 
+3. Replace the SIM card to confirm the original card is not damaged.
+4. Test the SIM card in a different phone and compare the internet connection. 
+    4.1. If the SIM card is undamaged and internet speed remains slow when the card is in another phone, the regional network may be abnormal or the data usage may have exceeded the limit.
+    4.2. If the SIM card is undamaged and internet speed is faster when the card is in another phone, clear the application cache or uninstall and reinstall the third-party application.
+
+If the issue persists after the above steps, contact our Customer Support for further assistance.
+
+
+
+
+
+
+My app isn't sending or receiving text messages properly. What can I do?	Please try the below:
+
+1. Switch the network to see if the issue is affected by the network.
+2. Log out of the app and log in again.
+3. Confirm whether the app version is the latest. If it's not the latest version, please update the software accordingly.
+4. Restart the phone.
+5. Use the app on other phones in the same network environment to see if there issue persists. If so, we advise you to contact the app creator.
+6. Uninstall and reinstall the application.
+7. Back up your data and restore the phone to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+My apps won't run. What can I do?	Please try the below:
+
+1. Check whether the battery optimisation function is turned on on the phone. If so, disable it: find the app icon on the screen, long-press it and go to App information > App battery usage > Manage battery usage > Optimise.
+2. Check whether your mobile network is working properly. If not, restart your phone and change to a better network before running the app.
+3. Ensure the phone is updated to the latest system version. If not, update and try again.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+I can't send or receive voice messages on an app. What can I do?	Please try the below:
+
+1. Log out of the app and log in again.
+2. Switch networks.
+3. Confirm whether the app is the latest version. If not, please update it.
+4. Restart your phone.
+5. Uninstall and reinstall the application.
+6. Back up your data and restore the phone to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+The browser has frozen. What can I do?	Please try the below:
+
+1. Connect to a different data network or WiFi and try again. Make sure to run the browser in a stable network environment.
+2. Clear all background apps and ensure that the phone has enough random access memory.
+3. Restart your phone, then open the browser and make sure there is enough memory.
+4. Open the application settings to clear the browser cache data and then open the browser. (The data will be lost after the browser clears the cache, so back up your data before clearing).
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+An unresponsive notification pops up when using I use an app. What can I do?	Please try the below:
+
+1. Clear all background apps to ensure that your phone has enough memory.
+2. Restart your phone and then open the app, check there is enough memory and try again.
+3. Go to Settings > Apps > See all apps > Find the app > Storage & cache > Clear storage and clear cache.
+4. Update the system to the latest version.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+An app can't access my location. What can I do?	Please try the below:
+
+1. Find the app and long-press it: App info > Permissions > Location > Allow only while using the app.
+2. If a third-party protection software is installed on your phone, open the software to check whether the permission settings are disabled or blocked by it.
+3. Clear the app data or uninstall and reinstall it.
+4. Change your position and try to locate again.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+One of my apps isn't responding. What can I do?	Please try the below:
+
+1. When an app isn't responding, close the app and go to Settings > Apps > See all apps > Find apps > Storage & cache > Clear storage and Clear cache, and try again (ensure you back up your data before clearing).
+2. Too many background apps and processes can lead to insufficient RAM, which slows system programs down. Close and clear unnecessary background apps.
+3. If the phone is running for a long time and the CPU is overloaded. Restart your phone and try again.
+4. If developer options are enabled and your phone displays 'Application not responding' (ANR), we recommend that you turn developer options off.
+
+
+
+
+
+
+Why are some of my apps still running in the background after the one-click cleanup?	This is to do with the Android system and expected.
+
+
+
+
+
+
+The browser isn't working. What can I do?	Please try the below:
+
+1. Network problem: check if the network is stable or connect to WiFi.
+2. Find the browser app by going to Settings > Apps > See all apps > Find the App > Storage & cache > Clear storage and Clear cache.
+3. Try restarting the phone.
+
+If the issue persists, please contact our Customer Support for further assistance.
+
+
+
+
+
+
+The download speed of the software is slow. What can I do?	Please try the below:
+
+1. Connect to a different network.
+2. Try another way to download.
+
+If the issue persists, please contact our Customer Support for further assistance.
+
+
+
+
+
+
+I can't download any apps. What can I do?	Please try the below:
+
+1. Switch to a different network and try again.
+2. Uninstall and delete any unused software or files and clear the data cache to create more storage space.
+3. Google Play Store may have blocked them; download them via another platform.
+4. Back up your phone data (contact, text message, etc.) and restore your phone to factory settings.
+
+If the issue persists, please contact our Customer Support for further assistance.
+
+
+
+
+
+
+I can't send voice messages in a game. What can I do?	Please try the below:
+
+1. Go to Settings > Security & privacy > Privacy > Permission manager > Microphone to confirm whether the game has a microphone function. If yes, turn it on.
+2. Please check your network connection.
+3. In game App, go to App info > Storage & cache > Clear cache, and clear the data.
+4. Uninstall and reinstall the game.
+
+
+
+
+
+
+My text messages aren't getting sent in a game. What can I do?	Please try the below:
+
+1. Enter Settings > Apps > See all apps. Find the app you want and go to App info > Storage & cache. Clear the cache to remove data and restart Phone (2a). Log in to the game and try again.
+2. Change to a different network or use WiFi.
+3. Uninstall and reinstall the game.
+
+
+
+
+
+
+My game is slow to update. What can I do?	Please try the below:
+
+1. AAA(Triple-A) game updates may take longer; please wait.
+2. For other game update, there may be a network quality issue.
+- If using WiFi, check the connection is stable.
+- Confirm mobile data is turned on and ensure your phone data package hasn't exceeded its limit.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+

@@ -1,0 +1,164 @@
+What is the device?   The device is CMF Watch Pro, a smartwatch.
+
+
+
+
+
+
+
+
+
+Does Watch Pro support auto-brightness adjustment based on ambient light?	No, it does not.
+
+
+
+
+
+
+Can Watch Pro directly connect to Bluetooth headphones?	Watch Pro does not support direct connection to Bluetooth headphones. To control music, please connect your phone to Bluetooth headphones, then connect your watch to your phone. Make sure your watch and phone's Bluetooth are turned on, and the CMF Watch app is connected to your watch. Open the music app on your phone to start playing music, then open the music function on your watch to control music.
+
+
+
+
+
+
+Does Watch Pro support NFC?	Watch Pro does not support NFC functionality.
+
+
+
+
+
+
+Does Watch Pro support eSIM service?	Watch Pro does not support eSIM service.
+
+
+
+
+
+
+Which Bluetooth protocol does Watch Pro support?	Bluetooth 5.3
+
+
+
+
+
+
+What devices are compatible with Watch Pro?	Watch Pro supports iOS 13 and above, and Android 8.0 and above.
+
+
+
+
+
+
+What types of location services does Watch Pro support?	GPS/GLONASS/Galileo/QZSS/Beidou
+
+
+
+
+
+
+Which devices are compatible with the CMF Watch app?	Watch Pro supports iOS 13 and above, and Android 8.0 and above.
+
+
+
+
+
+
+Which system languages are available on Watch Pro?	The system on Watch Pro is available in English, Simplified Chinese, Traditional Chinese, German, French, Italian, Spanish, Hindi, Indonesian, Japanese, Korean, and Arabic.
+
+
+
+
+
+
+Remotely control your phone's camera with Watch Pro.	1. Make sure your Watch Pro is connected to your phone via Bluetooth, and that the watch and phone are connected in your CMF Watch app. 2. To take a photo, you have two options: you can use the built-in camera app on your phone, or you can download a third-party camera app. 3. You can use the shutter button on your Watch Pro to control your phone's camera and take photos.
+
+
+
+
+
+
+Can I use any charging cable to charge the watch?	It is recommended to use the original charging cable that comes with Watch Pro.
+
+
+
+
+
+
+Watch Pro buttons and touchscreen controls	Compatible systems:System version is not a factor Touchscreen controls: 1. Watch Pro features a color screen and supports full-screen touch, swipe up, swipe down, swipe left, swipe right, and long press operations. 2. Button controls: (1) Short press: When the Watch Pro's screen is off, click the button to turn the screen on. When the Watch Pro is displaying the standby interface, click the button to return to the watch dial interface. When the Watch Pro is displaying any other interface, click the button to enter the feature list. (2) Long press: When the Watch Pro is off, press and hold the button to turn it on. When the Watch Pro is on, press and hold the button to display the restart/shutdown selection interface.
+
+
+
+
+
+
+How long does Watch Pro's battery last?	Typical battery life (13 days):This is with heart rate detection 288 times per day (once every 5 minutes), waking the display 100 times per day, notification of 10 incoming calls (with a 10-second wait before hanging up), notification of 200 messages, 3 alarms, 24 data updates, recording 18 minutes of motion per day with the screen off, recording 0.71 minutes of motion per day with the screen on, and 5 minutes of free operation.Typical daily use of GPS (searching for 5 min/week, tracking for 120 min/week) and Bluetooth calls (30 min/week). Heavy use (10 days): This is with 24/7 heart rate monitoring enabled, waking the display 200 times per day, manually triggered blood oxygen/heart rate detection 6 times each, 30 incoming call notifications (with a 10-second wait before hanging up), notification of 300 messages, 3 alarms, 4 inactivity reminders, 8 reminders to drink water, using the camera 20 times, 18 minutes of motion per day with the screen off, 0.71 minutes of motion per day with the screen on, and 24 data updates.Typical daily use of GPS (searching for 5 min/week, tracking for 120 min/week) and Bluetooth calls (30 min/week). Heavy use + always-on display for 12 hours per day (4 days) Please note that this data is from laboratory test reports, and actual data may vary depending on the specific usage conditions and individual differences, such as high or low temperature environments, and battery performance degradation due to long-term use.
+
+
+
+
+
+
+What sports activities can Watch Pro be used to track?	Outdoor running, Indoor running, Outdoor walking, Indoor walking, Outdoor cycling, Indoor cycling, Jump roping, Mountain hiking, Hiking, Cross country running, Skiing, Snowboarding, Cross country skiing, Elliptical, Rowing, Free Training, Strength training, Dynamic cycle, Stair stepper, Treadmill, HIIT, Fitness exercises, Yoga, Pilates, CrossFit, Functional training, Physical training, Taekwondo, Boxing, Karate, Fencing, Core training, Kendo, Horizontal bar, Parallel bar, Belly dance, Jazz dance, Latin dance, Ballet, Street dance, Other dance, Roller skating, Martial arts, Tai chi, Hula hoop, Disc sports, Darts, Archery, Horse riding, Kiteflying, Swinging, Stairs, Fishing, Badminton, Table tennis, Tennis, Billiards, Bowling, Volleyball, Shuttlecock, Handball, Baseball, Softball, Cricket, Rugby, Hockey, Squash, Dodgeball, Sailing, Surfing, Motorboat, Skating, Ice Hockey, Curling, Skateboarding, Rock climbing, Soccer, Basketball, Cooldown, Cross training, Australian football, Hunting, Golf, Fitness gaming, Aerobic exercise, Rolling, Pickleball, Flexibility, Hand cycling, Mind & Body, Wrestling, Gymnastics, Track & Field, Snow sports, Lacrosse, Sit-ups, Push-ups, Battle rope, Smith machine, Pull-ups, Zumba, Plank, Kabaddi, Shot put, Javelin, Long jump, High jump, Trampoline, Dumbbell, Karting Pro tip: More features are available in the CMF Watch app. Download it today!
+
+
+
+
+
+
+What is Watch Pro's battery capacity?	340 mAh
+
+
+
+
+
+
+Which positioning systems does Watch Pro support?	GPS/GLONASS/Galileo/QZSS/Beidou
+
+
+
+
+
+
+What sensors does Watch Pro have?	Accelerometer sensor Heart rate & SpO2 Blood Oxygen Saturation sensor
+
+
+
+
+
+
+What is the dust and water resistance rating of Watch Pro?	Watch Pro has an IP68 rating, which means it is dustproof and can withstand immersion in water up to 1 meter deep for up to 30 minutes. Watch Pro has been tested in a controlled laboratory environment under the IEC 60529 standard.Watch Pro is water resistant down to a depth of 1.1 meters in still water for up to 30 minutes.Watch Pro is not recommended for use in activities that may expose it to deep water, heat, or pressure, such as swimming in pools, swimming at beaches, taking hot showers, bathing in hot springs, heat bathing in saunas scuba diving, deep diving, platform diving, or high-pressure washing.Liquid damage is not covered by the warranty. Watch Pro's dust and water resistance may decrease over time due to normal wear and tear.
+
+
+
+
+
+
+Is the Watch Pro strap removable?	Yes, the Watch Pro strap is removable.
+
+
+
+
+
+
+Does Watch Pro support Bluetooth calls?	Yes, Watch Pro can make and receive calls using Bluetooth. It is necessary to pair Watch Pro with a phone first.
+
+
+
+
+
+
+Watch Pro display specifications	Size: 1.96' (4.98 cm) PPI: 332 Screen brightness:600 nits (typ) Resolution: 410 x 502
+
+
+
+
+
+
+Watch Pro display type	AMOLED
+
+
+
+
+
+

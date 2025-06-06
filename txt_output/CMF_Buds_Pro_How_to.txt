@@ -1,0 +1,57 @@
+What is the device?   The device is CMF Buds Pro, an eraphone.
+
+
+
+
+
+
+
+How do I use gestures to control functions?	The Buds Pro earbuds use touch to trigger control of functions. Please tap the touch area accurately to allow it to correctly identify gestures. The default ways to control functions are as follows: Music/standby Double tap to skip forward. Triple tap to skip back. Tap and hold to switch between Active Noise Cancellation and Transparency mode. Call Double tap to answer or hang up a call. Tap and hold to reject a call. For more operations, please download the Nothing X app mobile application, this is available for download on Google Play and iOS App Store. The Nothing X app supports setting different gestures to trigger different functions: volume up, volume down, voice assistant, skip forward, skip back and switching Active Noise Cancellation on, Active Noise Cancellation off, and Transparency mode.
+
+
+
+
+
+
+How do I set a gesture to adjust the volume?	To set a gesture to adjust volume, follow these steps: Open the Nothing X app and go to Controls. Select the Double Tap & Hold gesture. You can customize it to adjust the volume.
+
+
+
+
+
+
+How do I set a gesture to switch noise cancellation mode?	To set a gesture to switch noise cancellation modes, follow these steps: Open the Nothing X App and go to Controls. Select the Tap & Hold gesture. You can customize it to switch between 2-3 noise cancellation modes.
+
+
+
+
+
+
+How do I reset the Buds Pro earbuds?	To reset your Buds Pro, follow these steps: Place both earbuds in the charging case with the lid open. Press and hold the function button on the Buds Pro for 10 seconds. The LED indicator will flash red three times, indicating that the reset is successful.
+
+
+
+
+
+
+How do I directly adjust the volume on Buds Pro?	There is no default gesture to adjust the volume on Buds Pro earbuds. You can configure the "Double Tap & Hold" gesture in the Nothing X App to increase or decrease the volume. *All device customisations are already integrated into the Settings of Nothing OS version 1.5.6 and higher. Please keep the Nothing X app updated in the Google Play Store.
+
+
+
+
+
+
+How do I wake the voice assistant with Buds Pro?	By default, the voice assistant does not wake when you press the Buds Pro earbuds.You can enter "Controls" in the Nothing X app and select either the left or right earbud. Then, set the gesture "Tap & Hold" or "Double Tap & Hold" as the action to trigger the "Voice Assistant". Once you have made the changes, you can wake up the voice assistant by performing the corresponding action. For more operations, please download the Nothing X App mobile application, this is available for download on Google Play and iOS App Store. *All device customisations are already integrated into the Settings of Nothing OS version 1.5.6 and higher. Please keep the Nothing X app updated in the Google Play Store.
+
+
+
+
+
+
+How do I trigger the touch controls on Buds Pro?	Make sure that you correctly touch the touch area. The touch area is located at the top of the Buds Pro, on the side with the logo. Since the touch area is sensitive, make sure your other fingers do not come into contact with the touch area before touching it, to avoid mistriggering or misrecognition.
+
+
+
+
+
+

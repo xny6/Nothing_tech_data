@@ -1,0 +1,7 @@
+What can I do if I encounter an error while trying to upgrade my Watch Pro?	1. Open the CMF Watch app, reconnect the Watch Pro, then go to the Device Upgrade page to upgrade again. It is recommended to avoid using the Watch Pro and the app for other operations during the upgrade process. 2. If the above instructions cannot resolve your issue, press the button on the Watch Pro to enter Settings--System Menu, then click Restart. Or, press and hold the button, then click Restart and check again. 3. Upgrade the CMF Watch app to the latest version in the Google Play store or App Store to check if this resolves the issue. 4. To experience the latest firmware features, you can upgrade the firmware to the latest version in the CMF Watch app. To do this, open the CMF Watch app, go to the Device page, and click Device Upgrade. 5. If the above steps do not resolve the issue, press the button on Watch Pro to enter Settings--System Menu. Click Reset. Then, check again to see if the issue is resolved.
+
+
+
+
+
+

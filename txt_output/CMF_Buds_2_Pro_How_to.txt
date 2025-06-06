@@ -1,0 +1,207 @@
+What is the device?   The device is CMF Buds 2 Pro, an eraphone.
+
+
+
+
+
+
+
+
+How do I download the Nothing X app?	1. If using an Android device, download the Nothing X app by searching for it on Google Play. If using an iOS device, download the Nothing X app by searching for it on the App Store. 2. You can also download the Nothing X app by visiting our website and scanning the QR code: https://intl.nothing.tech/pages/nothing-x-app-download. The QR code is also available in the user guide inside the packaging or on the packaging box; simply scan it and download the app.
+
+
+
+
+
+
+How to charge CMF Buds Pro 2?	Charge the earbuds: Put the buds in the charging case and close the case to charge.
+Charge the Charing case with earbuds: Put the Buds in the charging case and close the case, connect the case to a power supply through the power cable delivered with the Buds.
+If the indicator lamp of the case is flashing white, the case is charging. If it is permanently white, the case is fully charged.
+
+
+
+
+
+
+How to use LDAC？	LDAC high-definition audio can be understood as a "highway" between your phone and earphones, supporting 24-bit depth, 96kHz sampling rate, and a 990kbps streaming rate. The high transmission bitrate ensures that high-resolution audio files are not excessively compressed, retaining more musical details and significantly enhancing sound quality.
+
+Note: This high-definition audio requires phone support and that the selected codec is enabled on the phone.
+
+For Android Phones:
+1. Ensure your phone supports LDAC by checking if it is enabled by default. If not, go to Settings > Developer Options to check for LDAC support.
+
+2.If your phone supports LDAC, enable it in the settings.
+
+3. Connect the earbuds to the Nothing X app.In the app, go to Device Settings.Enable High-Quality Audio to activate LDAC high-definition audio encoding.
+
+Tips for Optimal LDAC Performance:
+- To ensure smooth playback, set LDAC playback quality to default adaptive in the phone's developer options.
+- If opting for higher quality audio bitrate, it is recommended to disable the dual connection feature to ensure sufficient bandwidth for LDAC high-quality streaming.
+
+*Note: iOS devices only support the AAC high-quality audio codec over Bluetooth and currently do not support other high-quality audio codecs like LDAC.
+
+
+
+
+
+
+How to operate the control functions？	This product uses touch controls, with the current default touch functions as follows:
+
+Earbud Controls:
+
+Double-tap:
+Music/Standby: Skip forward
+Call: Answer a call
+
+Triple-tap:
+Music/Standby: Skip back
+Call: Reject or hang up a call
+
+Tap and hold the touch area:
+Switch between Active Noise Cancellation and Transparency Mode
+
+For more options, use the Nothing X app.
+
+*Optional functions include: play/pause, skip back, skip forward, switch noise cancellation mode, volume up, volume down, and wake up voice assistant.
+
+
+
+
+
+
+How do I switch between the noise cancellation modes?	If no incoming calls：
+Tap and hold 1 second to switch between Active Noise Cancellation and Transparency Mode.
+
+You can switch the different noise cancellation modes in the Nothing X app.
+
+
+
+
+
+
+How do I adjust the volume on CMF Buds Pro 2?	After connecting the earbuds to your phone, you can adjust the volume directly on the terminal device or by using the controls in the Nothing X app.
+
+1. Terminal device:
+- Adjust the volume using the volume buttons on your phone or connected device.
+
+2. Nothing X app controls:
+- Open the Nothing X app and go to CONTROLS.
+- Set the earbud's "double tap & hold" or the charging case's Smart Dial "rotate" gesture to control the volume.
+
+Double tap & hold:
+- Double tap and hold for 1 second to adjust the volume.
+- After triggering and in the double tap & hold state, the volume changes by one bar every 0.9 seconds and stops rising when the hold control is released.
+
+
+
+
+
+
+How do I reset CMF Buds Pro 2?	Place both earbuds into the charging case and leave the case open. Press and hold the function button on the charging case for 10 seconds. The reset is complete when the red light flashes three times.
+
+
+
+
+
+
+How to Manage Dual Connection and Connection Priority on CMF Buds Pro 2	1. Reconnection on Lid Open:
+1) When dual connection is enabled and the earbuds are powered on, if the earbuds are connected to fewer than two devices, they will attempt to reconnect to the last two connected devices. If dual connection is enabled for the first time with no previous reconnection records, the earbuds will maintain a single-device connection (in single connection mode, the earbuds will not automatically enter pairing mode; pairing a new device requires a manual long-press of the button). If reconnection to other devices fails, the earbuds will stay connected to a single device and will not enter pairing mode.
+
+2) If the earbuds and the terminal device exceed the connection range and then return within range, the earbuds will only reconnect to the phone that was disconnected due to distance.
+
+3) Reconnection will not be triggered when the earbuds are in a call or music state.
+
+4) If the earbuds are in a reconnection state and a call or music scenario occurs, the earbuds will pause reconnection for 5 seconds. If the call or music ends within the reconnection timeout period, the earbuds will resume the paused reconnection until the timeout. After the reconnection timeout, the connection can only be initiated from the device end.
+
+2. Connection Priority:
+When the earbuds are in dual connection mode, connection priority follows these principles:
+1) If neither of the two phones is in a music state, the earbuds will disconnect from the first connected phone and connect to the device initiating the snatch.
+2) When the earbuds enter pairing mode and are already connected to two devices, they will disconnect from one of the devices to be searchable and connectable.
+3) If the earbuds are already connected to two devices, and a third device with a connection record initiates a snatch, the earbuds will disconnect from one of the devices and connect to the third device.
+
+Tips:
+
+Music State:
+1. If one of the two phones is in a music state, the earbuds will disconnect from the phone that is not in the music state and connect to the device initiating the snatch.
+2. If both phones are in a music state, the earbuds will disconnect from the phone whose music is not outputting through the earbuds (i.e., disconnect the device in the muted music state) and connect to the device initiating the snatch.
+
+Call State:
+1. If any phone is in a call state, connection snatch is not allowed.
+
+
+
+
+
+
+Which device is controlled by gesture controls on CMF Buds Pro 2 when connected to two phones?	1. When the earphones are connected to two devices, and both mobile devices are in an idle state:
+1.1 The earphones will output the sound corresponding to that phone if there is an incoming call or notification on either device.
+1.2 If one device starts playing music first, the earphones will output the sound of the corresponding phone.
+
+2. When the earphones are connected to two devices, and only one device is in the music-playing state:
+2.1 Incoming or outgoing calls on the device that is not playing music will mute the current music on the earphones (without pausing) and switch to the sound of the incoming or outgoing device. After the call is ended, it will switch back to the connected device playing music.
+2.2 If the device not playing music starts playing music, there will be no sound channel switching. Both devices will remain in the playing state and the device that started playing music later will be in a muted state.
+
+
+
+
+
+
+Which phone's audio will the CMF Buds Pro 2 output when connected to two phones?	1. When the earphones are connected to two devices, and both mobile devices are in an idle state:
+1.1 The earphones will output the sound corresponding to that phone if there is an incoming call or notification on either device.
+1.2 If one device starts playing music first, the earphones will output the sound of the corresponding phone.
+
+2. When the earphones are connected to two devices, and only one device is in the music-playing state:
+2.1 Incoming or outgoing calls on the device that is not playing music will mute the current music on the earphones (without pausing) and switch to the sound of the incoming or outgoing device. After the call is ended, it will switch back to the connected device playing music.
+2.2 If the device not playing music starts playing music, there will be no sound channel switching. Both devices will remain in the playing state and the device that started playing music later will be in a muted state.
+
+
+
+
+
+
+How does CMF Buds Pro 2 handle incoming calls when connected to two phones?	1. When the earphones are connected to two devices, and neither device is in a call state:
+1) The earphones will output the ringing sound from the device that's receiving a call.
+
+2. When the earphones are connected to two devices, and one of the devices is already in a call:
+1) The earphones will play the incoming call alert and the earphone buttons will prioritise controlling the device that's receiving a call. If the earphones hang up the current call, the audio channel will switch to the other device that's receiving a call.
+
+Note:
+Please refer to the product instructions on the official CMF website or get in touch with our Customer Support.
+
+
+
+
+
+
+How to trigger control gestures on CMF Buds Pro 2？	To ensure proper use of the control gestures on your CMF Buds Pro 2, please follow these steps:
+
+1. locate the touch sensor area:
+- The touch sensor area is located at the circular graphic position above the earbud stem. Refer to the instruction manual inside the packaging for the precise location.
+
+2. proper touch technique:
+- Make sure you accurately touch the sensor area to trigger the control gestures.
+
+Tips:
+- Due to the sensitivity of the touch sensor area, ensure your fingers do not touch the sensor area before you intend to activate a gesture. This helps prevent accidental triggers or misinterpretation of your intended action.
+
+
+
+
+
+
+How to wake up the voice assistant on CMF Buds Pro 2？	By default, the control operations for this product do not include waking up the voice assistant. You can enable this function through the Nothing X app:
+
+1. Open the Nothing X app.
+2. Go to "CONTROLS"
+3. Select the left or right earbud.
+4. Set the gesture "TAP & HOLD" or "DOUBLE TAP & HOLD" to trigger the operation "VOICE ASSISTANT."
+
+After making these changes, you can use the specified gesture to wake up the voice assistant.
+
+For more operations, please download the Nothing X app from Google Play or the iOS App Store.
+
+
+
+
+
+

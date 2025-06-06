@@ -1,0 +1,186 @@
+What is the device?   The device is Nothing Ear 1, an eraphone.
+
+
+
+
+
+
+
+
+
+What is Clear Voice (ENC)?	ENC stands for Environmental Noise Cancellation. ENC is similar to ANC, but specially tuned to remove unwanted background noise while using the microphone. It's like ANC, but for your microphone, ensuring others won't hear your background noise when speaking.
+
+
+
+
+
+
+What is the battery life of Ear (1)?	With a full charge and typical use, the Ear (1) battery provides 4 hours of playback with ANC on (or 5.7 hours with ANC off). Top up the battery by placing Ear (1) in the case for up to 10 minutes and you'll enjoy another 1.2 hours.
+
+With a full charge and typical use, the case provides 24 hours of battery with ANC on (or 34 hours with ANC off). Charging the case for just 10 minutes provides Ear (1) with another 8 hours of battery life.
+
+
+
+
+
+
+Which type of connection does Ear (1) use for charging?	The Ear (1) case charges using a USB-C cable. We recommend using the cable included in the box, or you can charge the case wirelessly with a Qi-compatible wireless charger.
+
+
+
+
+
+
+How long does it take to charge the earbuds?	Ear (1) takes 1.5 hours to fully charge using the included USB-C charging cable. Using other cables or chargers may slow the charging time.
+
+
+
+
+
+
+How long does it take to charge the case?	The Ear (1) case takes 52 minutes to fully charge.
+
+If you're charging wirelessly, expect 2.5 hours to fully charge the Ear (1) case.
+
+
+
+
+
+
+Can I charge Ear (1) with a Fast Charger?	The Nothing Ear (1) will adapt the power input of any USB charger to its optimum charging speed.
+
+
+
+
+
+
+Does Ear (1) fast pair with Bluetooth-enabled TVs and laptops?	Ear (1) supports Fast Pair as an accessory. Fast Pair to devices is supported on compatible Android or Chrome OS devices only. Please check whether the device you're connecting to supports Fast Pair.
+
+
+
+
+
+
+What is the range of the earbuds?	Ear (1) has a range of 10 meters (33 feet) when connecting to a Bluetooth device.
+
+
+
+
+
+
+How many devices can Ear (1) be paired to?	You can pair your Ear (1) to as many devices as you'd like, however only 1 device can be used at once.
+
+You can change which device your Ear (1) connects to via your device's Bluetooth settings.
+
+Your Ear (1) will automatically connect to the last device it was paired with when you remove the earphones from the case.
+
+
+
+
+
+
+How much do the Ear (1) earbuds weigh?	Each Ear (1) earbud weighs 4.7g.
+
+
+
+
+
+
+In what sizes are the silicon ear tips available?	Included in the box are small, medium, and large-sized tips.
+
+
+
+
+
+
+What ANC modes are available?	Ear (1) comes with 4 ANC modes:
+- Maximum
+- Light
+- Transparency
+- Off
+
+
+
+
+
+
+What is Transparency Mode?	Transparency Mode allows you to hear surrounding noise as if you weren't wearing Ear (1). It's useful if you want to listen to music, but remain aware of your surroundings.
+
+
+
+
+
+
+What is the difference between Transparency Mode and just switching the ANC off?	By turning ANC off, you'll hear external sounds but much quieter and subdued. Transparency Mode takes the external noises and plays them through Ear (1), so you can still hear what's going on around you. It's almost like wearing nothing, except you can still hear your music.
+
+
+
+
+
+
+Which Bluetooth sound codecs are supported by Ear (1)?	Ear (1) supports AAC and SBC Bluetooth sound codecs.
+
+
+
+
+
+
+Does Ear (1) support voice assistance services?	Yes, Ear (1) does support voice assistance.
+
+Go to Gesture Controls in your settings, select Triple Tap and choose Voice Assistant.
+
+
+
+
+
+
+Is Ear (1) water resistant?	Ear (1) is rated IPX4, which means the earbuds are water resistant to splashes from any direction.
+
+
+
+
+
+
+Where can I find Ear (1) Product Safety information?	Please refer to the Safety Information & Warranty Card provided with Ear (1).
+
+
+
+
+
+
+Where can I find information about the end of life disposal of Ear (1)?	Please dispose of your Nothing product according to local laws and regulations. In EU countries please follow the WEEE Directive.
+
+
+
+
+
+
+Do I need the Nothing X app for the earbuds to function?	Ear (1) does not require the Nothing X app to function. However, the app will help you unlock the full potential of Ear (1), so we recommend downloading it.
+
+
+
+
+
+
+On which operating systems is the Nothing X app supported?	The Nothing X app is supported on Android 5.0+ and Apple iOS 13+.
+
+
+
+
+
+
+What can I do with the Nothing X app?	The Nothing X app unlocks the full potential of Ear (1), providing access to additional features and customizations. Use the Nothing X app to update firmware, control ANC settings, adjust the equalizer, locate lost earbuds using "Find My Earbud" and more.
+Don’t have the Nothing X app yet? Download it from Google Play on your Android device and from the App Store on your iOS device.
+
+
+
+
+
+
+Why do we need firmware updates? What does a firmware update do?	Firmware updates are used to add new features to the Nothing X app, to improve the performance of your Nothing product, and occasionally to fix bugs.
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+My phone won't turn off. What can I do?	If the phone won't turn off by when you press the power button and volume up key simutaniously, try the following:
+
+1. Check if the button is faulty.
+2. Check if the phone has crash dump or freeze issue. Press and hold the power button for more than 12 seconds to force the phone to restart.
+4. Uninstall and remove any recently downloaded apps.
+5. Back up your data and restore your phone to factory settings.
+
+If the issue persists, please contact our Customer Support for further assistance.
+
+
+
+
+
+
+My phone is unresponsive when charging. What can I do?	You can charge your phone by:
+1. Using the charger: please use the Nothing cable and charger to connect the phone to a power outlet for charging.
+2. Using the USB port: connect the phone to the computer or other device via a USB cable.
+
+Ensure you know what the battery and charging icons mean so you can tell the current battery status by the battery icon on the status bar and the lightning bolt icon next to the battery.
+Note: After the battery percentage is turned on, the battery icon will display it (Settings > Battery > Battery percentage).
+
+If your phone fails to be charged properly when connected, try to:
+1. Disconnect the charging adapter and charging cable again.
+2. Restart and then charge it.
+3. Monitor the temperature of your device. Charging will stop when the temperature is higher than 47°C to protect your device.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+My phone is heating up. What can I do?	Phone use environment
+Phones are generally suitable for use in an environment with a temperature between 0 and 35°C. Temperatures higher or lower than that can affect the operation of the phone, causing overheating and charging issues. In severe cases, they may cause damage to the phone and battery.
+
+Advice:
+- Don't use your phone for a long time in a high-temperature environment, especially in summer. When the outdoor temperature is high, the phone is prone to heating.
+- When the phone is charging or the temperature rises, take off the case and leave the phone for some time with the screen off. Choose thin and breathable phone cases rather than heavy ones (leather or metal cases).
+- Choose a qualified phone radiator with good heat dissipation and cooling performance, or use a wet tissue to put on the back of the mobile phone to help dissipate heat.
+
+Heating usage scenario:
+1. High-power consumption scenarios
+a) The signal is weak
+When the WiFi signal and SIM signal are weak, the device will increase the power of transmitting and receiving signals (currently, 5G base station coverage is incomplete, and the network signal is poor in some areas, resulting in increased power consumption and heat generation of mobile phones when using 5G).
+b) Play games
+To ensure game image quality and smoothness, phone CPU, GPU and other chips need to operate at high performance. The network needs to communicate with the game server in real time. In addition, the screen and speakers work at the same time. The device is running with a high load, and the temperature of the phone will rise accordingly (generally reaches maximum temperature after 20 minutes).
+c) Watch videos
+The phone screen, data processor and image processor are in a long-term working state. For example, when playing videos or live broadcasts, high-resolution and streaming comments will increase power consumption and generate more heat.
+d) Many backgrounds
+If there are too many apps running in the background, or if the phone has WiFi, GPS, NFC, Bluetooth and other functions searching for signals or networks in the background, it will easily become overheated.
+
+2. When charging your mobile phone:
+Charging is an energy conversion process. The charging equipment generates a certain amount of heat during operation, causing both the phone and the charger to heat up. This is normal. Phones that support fast charging generate more heat during charging.
+
+Suggestion:
+a) Be sure to use the official charger. Don't place the phone in a high-temperature environment with poor heat dissipation when charging.
+b) Avoid playing with your phone while charging. If the phone continues to run during charging, it will increase the load on the phone's CPU and increase heat.
+
+Note:
+- The phone needs hardware to cooperate during operation. When working, it will inevitably generate heat.
+- If the phone heats up inexplicably, turn it off for some time and restart it. If the issue persists, contact our Customer Service or go to the repair center designated by Nothing for testing with your purchase invoice, warranty card and phone.
+
+
+
+
+
+
+The battery has dropped quickly. What can I do? Plus, how do I check my phone's power consumption?	Please try the below:
+
+1. Fast power consumption in a low-temperature environment:
+Lithium batteries deteriorate in low-temperature environments, resulting in increased power consumption, which is normal. When the temperature returns to normal, the power consumption normalises, too.
+2. Fast power consumption with 5G network:
+When the phone uses the 5G network, the 4G network will be turned on simultaneously, so the power consumption will increase, too. You can turn it on or off as you need. (Path: Settings > Network & internet > SIMs > Preferred network type.
+3. Fast power consumption after a system update:
+Due to system integration and optimisation, power consumption increases after a system update. We recommend restarting the phone after the screen is off and charging it for a whole night after that. It will recover by itself after 2-3 days of normal use.
+4. Check the power consumption details of the phone:
+Go to Settings > Battery > Battery usage on your phone to check the power consumption details.
+
+
+
+
+
+
+My phone isn't charging. What can I do?	Please try the below:
+
+1. Check whether the charger is working properly
+Connect the charger to other devices and check whether the charger is charging other devices properly. If not, it means the charger is defective and needs replacing.
+Please note: Some chargers may have compatibility issues. We recommend using a mainstream charger.
+2. If the charger isn't defective, please:
+1) Replace the cable to check if it can be fixed.
+2) Check whether there is any foreign matter in the charging port of the phone. If so, clean it with a dry brush or other small tools.
+3) Please ensure that the ambient temperature is suitable during the charging process. If the temperature is too high, it will trigger the high-temperature protection and stop charging.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+The charging speed is slow or my phone won't charge fully. What can I do?	Please try the below:
+
+1. We recommend using the official Nothing charger and cable.
+2. Replace the charger and cable to check if the adapter or cable is defective.
+3. Avoid using high-power apps when charging, especially games, videos, camera, etc. If your phone is seriously overheated, restart it and wait for the temperature to drop before charging again.
+4. If the ambient temperature is too high or too low, it will affect the phone's charging speed. Charge the phone in a suitable environment of 15℃~35℃.
+5. Restart your phone and re-plug and unplug the cable to try charging.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+

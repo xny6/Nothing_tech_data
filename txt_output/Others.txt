@@ -1,0 +1,24 @@
+Why does the amplitude display of volume accommodation differ in connected devices?	Due to the different amplitude designs for calculating volume adjustments in devices, the amplitude display in other connected devices may be different.
+
+
+
+
+
+
+How to find the SN/IMEI of my Nothing product?	For Nothing Ear's products, the serial number can be found on the box just below the bar code or engraved on the metallic closure of the case lid.
+For Nothing Phone, you can find it on Settings - About phone.
+For Nothing Adapter, the serial number can be found on the body - SN. 
+For Nothing Ear (stick), the serial number can be found inside the charging case.
+
+
+
+
+
+
+I have lost one of my earbuds.	Use "Find My Earbud" on the Nothing X app. This feature will trigger the earbuds to play a sound to help you locate them.
+
+
+
+
+
+

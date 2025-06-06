@@ -1,0 +1,163 @@
+What is the device?   The device is CMF Buds Pro, an eraphone.
+
+
+
+
+
+
+
+
+What devices are compatible with Buds Pro?	Android 5.1 and above iOS 13 and above
+
+
+
+
+
+
+What is the Android version of the Buds Pro earbuds?	Bluetooth 5.3
+
+
+
+
+
+
+Can I customize the EQ on the Buds Pro earbuds?	Yes, you can customize the EQ on the Buds Pro earbuds.
+
+
+
+
+
+
+What is Ultra Bass Technology?	Buds Pro features Ultra Bass Technology.The algorithm can detect low-frequency signals in music in real time and enhance the low-frequency sound in real time, making the low-frequency sound more powerful and dynamic.
+
+
+
+
+
+
+What material is the Buds Pro housing made of?	The Buds Pro housing is made of a variety of materials, including polycarbonate plastic, silicone ear tips, and stainless steel hinges.The polycarbonate plastic used for the housing is made of high-quality polycarbonate that has excellent UV resistance and impact resistance.
+
+
+
+
+
+
+Buds Pro support LE Audio?	Not Support
+
+
+
+
+
+
+What audio formats are supported by the Buds Pro earbuds?	AAC?SBC
+
+
+
+
+
+
+Do the Buds Pro earbuds support Microsoft Swift Pair?	Yes, the Buds Pro earbuds support Microsoft Swift Pair.
+
+
+
+
+
+
+Do the Buds Pro earbuds support Google Fast Pair?	Yes, the Buds Pro earbuds support Google Fast Pair.
+
+
+
+
+
+
+What is ENC?	ENC stands for Environmental Noise Cancellation. It is specially tuned to remove unwanted background noise while using the microphone for calls. For your microphone, ENC ensures others won't hear your background noise when speaking.
+
+
+
+
+
+
+How long will the Buds Pro earbuds stay on before they turn off automatically?	When the earbuds are not connected and not worn, they will turn off after 60 minutes (the time may vary for different products). To wake them up, you need to manually put them back in the case.If the earbuds are fully charged and no operation is performed, they will turn off after 10 minutes.
+
+
+
+
+
+
+Can the charging case still charge the Buds Pro earbuds when it is low on battery?	Yes, the charging case can still charge the earbuds when the battery is below 30% but above 1%. However, when the battery is below 1%, it cannot turn the earbuds on or off automatically, and the charging case button will not work either. It is important to charge the charging case as soon as possible.
+
+
+
+
+
+
+How many devices can the Buds Pro earbuds connect to at most?	Hello, the Buds Pro earbuds can store up to 8 sets of device records.
+
+
+
+
+
+
+Can the Buds Pro earbuds be used one at a time?	After pairing, the Buds Pro earbuds can be used normally with either the left or right earbud only. If one Buds Pro earbud is lost, it is not possible to pair with a phone with only one earbud in the case.
+
+
+
+
+
+
+What does the breathing light on the Buds Pro earbuds mean?	Charging status:White light breathing flashes Fully charged status:White light is always on Pairing status:White light flashes Battery status: Low battery (<1%):No light Battery <30%:Red light flashes for 2 seconds Battery ?30%:White light flashes for 2 seconds Factory reset: Press and hold the battery compartment button for 10 seconds, the red light flashes 3 times
+
+
+
+
+
+
+Do the Buds Pro earbuds have active noise cancellation?	Yes, they do. They have ANC and hybrid noise cancellation, and reduce up to 45 dB at a noise reduction bandwidth of up to 5000 Hz.
+
+
+
+
+
+
+What is the waterproof and dustproof rating of the Buds Pro earbuds?	The Buds Pro have an IP54 rating (class 5 dustproof, class 4 waterproof), based on the IEC 60529 test standard, tested under controlled laboratory conditions. The charging case has an IPX2 rating (splashproof), based on the IEC 60529 test standard, tested under controlled laboratory conditions. The dustproof and waterproof functions are not permanent and may be affected by factors such as daily wear and tear or aging of the earbuds.Do not charge the earbuds when they are wet. The Buds Pro earbuds are not designed for water sports such as swimming and should not be worn in the shower.If you sweat a lot due to physical exercise, get water splashed on you, or experience other similar situations while wearing the Buds Pro earbuds, wipe them clean with a soft, dry, lint-free cloth before returning them to the charging case.Do not use heat or compressed air to dry the Buds Pro earbuds. Please note that damage caused by the Buds Pro earbuds being immersed in liquid is not covered by the warranty.
+
+
+
+
+
+
+Can the Buds Pro earbuds be connected to two devices at the same time?	No, they can only be connected to one device at a time.
+
+
+
+
+
+
+What is the battery capacity of the Buds Pro earbuds?	Buds:55mAh Case:460mAh
+
+
+
+
+
+
+Do the Buds Pro earbuds support wireless charging?	No, the Buds Pro earbuds do not support wireless charging.
+
+
+
+
+
+
+Do the Buds Pro earbuds support fast charging?	Yes, the Buds Pro earbuds support fast charging. A 10-minute charge will give you 3 hours of listening time with ANC off.The charging case can provide an additional 2 hours of battery life. With ANC on, the earbuds can play music continuously for 1.7 hours.The charging case can provide an additional 1.1 hours of battery life. Test conditions: Measured with the volume at 50%.Charging and battery tests are based on Nothing internal lab results (at 25?C or 77?F).Actual battery life is affected by factors such as volume, frequency, output source, environmental interference, product features, and usage habits.Actual results will vary depending on individual usage.
+
+
+
+
+
+
+How long is the battery life of Buds Pro?	In music mode, with ANC mode off, the Buds Pro earbuds can play music continuously for 11 hours. Using the charging case, they have a total battery life of 39 hours. In music mode, with ANC mode on, the earbuds can play music continuously for 6.5 hours. Using the charging case, they have a total battery life of 22 hours. In call mode, with ANC mode off, the earbuds can be used to talk continuously for 6 hours. Using the charging case, they have a total battery life of 21 hours. In call mode, with ANC mode on, the earbuds can be used to talk continuously for 5 hours. Using the charging case, they have a total battery life of 18.5 hours. Test conditions: Measured with the volume at 50%.Charging and battery tests are based on Nothing internal lab results (at 25℃ or 77℉).Actual battery life is affected by factors such as volume, frequency, output source, environmental interference, product features, and usage habits. Actual results will vary depending on individual usage.
+
+
+
+
+
+

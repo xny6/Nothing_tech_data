@@ -1,0 +1,51 @@
+My camera is slow to open. What can I do?	Please try the below:
+
+1. Avoid running too many apps in the background.
+2. Go to Settings > Apps > See all apps > Find camera > Storage & cache > Clear storage and clear cache
+3. Uninstall any recently installed apps that may be incompatible with your phone.
+4. Back up important data and restore your phone to factory settings.
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+
+My photos won't save. What can I do?	Please try the below:
+
+1. Check if you have sufficient storage space for your photos. If not, free up space.
+2. Go to Settings > Apps > See all apps > Find camera > Storage & cache > Clear storage and clear cache.
+3. Back up your data and restore the phone to factory settings or update it to the latest system.
+
+
+
+
+
+
+My camera is slow to focus when taking photos. What can I do?	Please try the below:
+
+1. Check whether the issue still occurs when using third-party apps.
+2. Clear the storage by going to Settings > Apps > See all apps > Find camera > Storage & cache > Clear storage and Clear cache.
+3. Restart the phone.
+4. Back up your data and restore the phone to factory settings.
+
+If the issue persists, please contact our Customer Support for further assistance.
+
+
+
+
+
+
+The phone freezes when taking pictures. What can I do?	Please try the below:
+
+1. Clean the background apps, restart the phone and then re-open the application.
+2. Enter Settings > Apps > See all apps > Find camera > Storage & cache > Clear storage (this operation will not delete your photos).
+
+If the issue persists, contact our Customer Support for further assistance.
+
+
+
+
+
+

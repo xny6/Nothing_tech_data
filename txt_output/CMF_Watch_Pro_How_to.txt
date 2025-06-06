@@ -1,0 +1,276 @@
+What is the device?   The device is CMF Watch Pro, a smartwatch.
+
+
+
+
+
+
+
+
+
+How do I use the GPS function?	The GPS function is activated when you enter an outdoor exercise mode (outdoor running, outdoor walking, or outdoor cycling). After entering an outdoor exercise mode, please wait for the GPS to locate before starting your workout.The watch's built-in GPS chip will accurately record your workout track. After completing your workout, you can view your workout track in the app.
+
+
+
+
+
+
+How do I change the watch face on my Watch Pro?	1. Change on the Watch Pro: To change watch faces on your Watch Pro, press and hold anywhere on the screen for 3 sec. This will open the watch face change selection interface. Swipe left or right and tap the desired watch face to select it. 2. Change in the CMF Watch app: (1) In the My tab of the Watch Face marketplace, tap on a watch face to view its details. Tap Change Watch Face to change the watch face on your Watch Pro. (2) In the Recommended tab of the Watch Face marketplace, tap on a watch face to view its details. Tap Download to download the watch face to your Watch Pro. Once the watch face is downloaded, it will be displayed on your Watch Pro.
+
+
+
+
+
+
+How do I customize the watch face?	Once you have paired your Watch Pro with the CMF Watch app, you can access the Watch Face marketplace in the app. In the My tab, select Customize Watch Face. Choose a background and style for your watch face, then download it. Your watch will now display the customized watch face.
+
+
+
+
+
+
+How do I get the User Guide?	1. Click the button to open the function list. Select Settings, and enter the User Guide. Scan the code with your phone to get User Guide information. 2. In the main watch dial interface, swipe down to display the shortcut menu. Select Settings, and enter the User Guide. Scan the code with your phone to get User Guide information. 3. Go to the official website support page to find it.
+
+
+
+
+
+
+How do I sync phone call notifications?	Pair your Watch Pro with the CMF Watch app. In the app Device page, tap Phone Call Notifications, and turn the switch to on.
+
+
+
+
+
+
+How can I find my Watch Pro?	Pair your Watch Pro with the CMF Watch app. In the app Device page, tap Find Device. Your Watch Pro will ring to let you know where it is.
+
+
+
+
+
+
+How do I set up health monitoring?	Pair your Watch Pro with the CMF Watch app. In the app Device page, tap to enter Health Monitoring. 1. Turn on the Continuous Heart Rate Monitoring switch. You can set the following: (1) Set a reminder for high heart rate in a resting state. You can also turn off this reminder. (2) Set a reminder for a low heart rate in a resting state. You can also turn off this reminder. (3) Set a reminder for a high heart rate during activity. You can also turn off this reminder. 2. Turn on the Continuous Blood Oxygen Monitoring switch. (1) Set a reminder for low blood oxygen. You can also turn off this reminder. 3. Turn on the Continuous Stress Monitoring switch. When you wear the Watch Pro, it will automatically measure and record your stress level every 30 minutes.
+
+
+
+
+
+
+How do I add phone contacts to my Watch Pro?	Pair your Watch Pro with the CMF Watch app. In the app Device page, tap the Regular Contacts function. 1. On Android: Tap Add in the Regular Contacts function interface to open your phone's contact list. Select contacts to add to the app. The app will automatically sync the contacts to your Watch Pro. 2. On iOS:Tap Add in the Regular Contacts function interface to open a contact creation or editing window. Manually add contact information and save. The app will automatically sync the contacts to your Watch Pro.
+
+
+
+
+
+
+How do I set the Do Not Disturb mode?	1. In the main watch dial interface, swipe down to display the shortcut menu. Click to enable Do Not Disturb mode. 2. Press the button to open the function list. Select Settings, and enter to select the Do Not Disturb mode. (1) Full Do Not Disturb:When you turn on full Do Not Disturb, the Watch Pro will not have any notifications. (2) Scheduled Do Not Disturb:When you turn on scheduled Do Not Disturb, the Watch Pro will not have any notifications during the set time.
+
+
+
+
+
+
+How do I set a reminder to drink water?	Open the CMF Watch app and go to the device page. Tap Reminder to Drink Water, and turn the switch to on. Select the reminder interval. When the set time is reached, the Watch Pro will vibrate to remind you.
+
+
+
+
+
+
+How do I set an inactivity reminder?	Open the CMF Watch app and go to the device page. Tap Inactivity Reminder, and turn the switch to on. Select the reminder interval. When the set time is reached, the Watch Pro will vibrate to remind you.
+
+
+
+
+
+
+How do I download and upgrade the CMF Watch app for my Watch Pro?	Android users:Download and install the app from the Google Play Store. iOS users: Download and install the app from the App Store.
+
+
+
+
+
+
+How do I adjust or replace the watch strap on my Watch Pro?	Locate the buckle on the watch strap at the back of the Watch Pro. Open the buckle to release the watch strap. Replace the watch strap with a new one.
+
+
+
+
+
+
+How do I view the call history on my Watch Pro?	1. Press the button to enter the function list. Select Phone, and enter to select the call history. Tap to view the call logs. 2. In the main watch dial interface, swipe left or right on the shortcut cards till you get to the Phone interface. Select Call History, and tap to view the call logs.
+
+
+
+
+
+
+How do I upgrade the software on my Watch Pro?	Pair your Watch Pro with the CMF Watch app. In the app Device page, tap Device Upgrade, and the phone will detect the Watch Pro's version and upgrade information. Tap to start the upgrade, and the Watch Pro will automatically enter the upgrade interface and display the current upgrade progress. After the upgrade is complete, the Watch Pro will automatically restart and return to the language selection interface.
+
+
+
+
+
+
+How do I measure my blood oxygen saturation with my Watch Pro?	1. Continuous blood oxygen monitoring: Pair the Watch Pro with the app. In the app, go to the health check feature and select Continuous Blood Oxygen Monitoring. Set the switch to on. Put on the Watch Pro and it will start to automatically measure your blood oxygen once every 30 min. 2. Manually measure your heart rate: Put on the Watch Pro, and remain still. Press the button to open the function list, and select Blood Oxygen Saturation. Tap to enter, and the Watch Pro will start to measure your current blood oxygen.
+
+
+
+
+
+
+How do I adjust the display on-time on my Watch Pro?	1. Press the button to enter the function list. Select Settings, enter Always On, select the desired always-on time, then enable the switch. Your Watch Pro will keep the display on for the set time. 2. In the main watch dial interface, swipe down to display the shortcut menu. Select Settings, and enter Always On. Select the desired always-on time, then enable the switch. Your Watch Pro will keep the display on for the set time.
+
+
+
+
+
+
+How do I adjust the display brightness on my Watch Pro?	1. Press the button to open the function list. Select Settings, and enter the Display & Brightness interface. Select Brightness Adjustment to adjust the display brightness. 2. In the main watch dial interface, swipe down to display the shortcut menu. Select Settings, and enter the Display & Brightness interface. Select Brightness Adjustment to adjust the display brightness.
+
+
+
+
+
+
+How do I set the time and language on the Watch Pro?	1. Setting the time: Pair your Watch Pro with the CMF Watch app, and the Watch Pro will automatically sync with the time on your phone. 2. Setting the language: (1) Press the button to open the function list. Select Settings, and enter the language selection interface. There, you can switch between different languages. (2) In the main watch dial interface, swipe down to display the shortcut menu. Select Settings, and enter the language selection interface. There, you can switch between different languages.
+
+
+
+
+
+
+How do I control music with the Watch Pro?	Pair the Watch Pro with the CMF Watch app. On your phone, open a music player. On the Watch Pro, press the button to open the function list, and select Music to enter the Music Control interface. There, you can adjust the volume, skip to the previous or next track, and play or pause the music.
+
+
+
+
+
+
+How do I monitor my heart rate with the Watch Pro?	1. Continuous heart rate monitoring: Pair the Watch Pro with the CMF Watch app. In the app, go to the health check feature and select Continuous Heart Rate Monitoring. Set the switch to on. Put on the Watch Pro and it will start to automatically measure your heart rate. 2. Manually measure your heart rate: (1) Put on the Watch Pro, and remain still. Press the button to open the function list, and select Heart Rate. Tap to enter, and the Watch Pro will start to measure your current heart rate. (2) Put on the Watch Pro, and remain still. In the main interface, swipe left or right on the shortcut cards until you get to the Heart Rate interface, and the Watch Pro will start to measure your current heart rate.
+
+
+
+
+
+
+How do I answer or reject phone calls with the Watch Pro?	Pair the Watch Pro with the CMF Watch app. The call notification function is enabled in the app. When you receive a call, you will see a notification on the Watch Pro's display. In the Watch Pro interface you tap the button to answer or reject the call.
+
+
+
+
+
+
+How to I unpair the Watch Pro from a device?	In the CMF Watch app Device page, tap Unpair Device. Confirm that you want to unpair the device, and the Watch Pro will unpair from the app.
+
+
+
+
+
+
+How do I pair my Watch Pro with a new device?	1. To pair the Watch Pro with a new device, you need to unpair it from the previously paired device. Once the Watch Pro is unpaired, it will return to the Language Selection interface. Then, you can pair it with a new device. 2. Alternatively, you can reset the Watch Pro to factory settings and then pair it with a new device.
+
+
+
+
+
+
+How do I use the flashlight on the Watch Pro?	1. Press the button to open the function list, and select Flashlight. Click to turn on the flashlight. Swipe right to exit and turn off the flashlight. 2. In the main watch dial interface, swipe down to display the shortcut menu. Select Flashlight. Click to turn on the flashlight. Swipe right to exit and turn off the flashlight.
+
+
+
+
+
+
+How do I view the basic information about the Watch Pro, such as the system version, Mac address, and serial number?	1. Press the button to open the function list. Select Settings, and enter the About interface. There, you can view the basic information about the Watch Pro. 2. In the main watch dial interface, swipe down to display the shortcut menu. Select Settings, and enter the About interface. There, you can view the basic information about the Watch Pro.
+
+
+
+
+
+
+How do I set activity record information on my Watch Pro?	The Watch Pro does not support setting activity record information. The system defaults to the following activity record information:Calories burnt, distance, steps, activity intensity, and activity duration.
+
+
+
+
+
+
+How do I measure stress with my Watch Pro?	To measure stress with your Watch Pro, you will need to wear it correctly and remain still. Press the button to open the function list, select Stress, and then tap to start an automatic stress measurement.
+
+
+
+
+
+
+How do I set the display of my Watch Pro to always on?	1. Press the button to enter the function list. Select Settings, enter Always On, select the desired always-on time, then enable the switch. Your Watch Pro will keep the display on for the set time. 2. In the main watch dial interface, swipe down to display the shortcut menu. Select Settings, and enter Always On. Select the desired always-on time, then enable the switch. Your Watch Pro will keep the display on for the set time.
+
+
+
+
+
+
+How does the Watch Pro track sleep?	To track your sleep, you need to wear the Watch Pro correctly. The Watch Pro can automatically record the duration of your sleep and identify the stages of sleep, including deep sleep, light sleep, and wakefulness.
+
+
+
+
+
+
+How can I check the weather forecast on my Watch Pro?	1. Pair your Watch Pro with the CMF Watch app and keep them connected. 2. Swipe left or right on the watch face interface to open the shortcut card interface. Tap on the weather card to view the weather information. 3. Press the button to open the function list. Tap on "Weather" to view the weather information. Tips: The weather information on the Watch Pro's weather card will be automatically cleared after 00:00. You need to connect the Watch Pro to the app again the next day to update the weather information.
+
+
+
+
+
+
+How can I manage the Watch Pro's watch face?	Once you have paired your Watch Pro with the CMF Watch app, you can access the Watch Face marketplace in the app. From there, you can switch between watch faces, download new ones and delete unwanted ones.
+
+
+
+
+
+
+How can I use my Watch Pro to find my phone?	Press the button to enter the function list, and select Find Phone. Click to enter Find Phone, and your mobile phone will ring in response.
+
+
+
+
+
+
+What should I keep in mind when wearing a Watch Pro?	Ensure that the Watch Pro's case back is clean, dry, and free of debris before putting it on your wrist. Fit the monitoring unit snugly against your wrist.Do not stick protective film on the Watch Pro's case back, as this can interfere with the sensors and lead to inaccurate recording of or missing heart rate, blood oxygen, or sleep data. To ensure the accuracy of measurements, please wear the Watch Pro at least one or two fingers' distance from your wrist joint. Wear the strap loose enough for comfort, but tighten it for more accurate measurements during exercise. Tips: The Watch Pro is made with materials that are safe for your skin and health, so you can wear it without worry.However, if you experience any skin irritation while wearing it, stop wearing it and consult a doctor.
+
+
+
+
+
+
+How can I add custom exercise types to the workout app list?	To customize the workout app list on your Watch Pro, connect it to the CMF Watch app. In the Regular Exercises feature in the app, select Edit and then Add/Remove Exercises. Once you have finished making your changes, save them and the app will automatically sync them to your Watch Pro.
+
+
+
+
+
+
+How can I reset my Watch Pro to factory settings?	1. Press the button to enter the function list, select Settings, enter the System menu, select the Factory Reset settings option, tap Factory Reset, and the watch will clear data and restart. 2. Swipe down on the main watch face to display the shortcut menu, select Settings, enter the System menu, select the Factory Reset settings option, tap Factory Reset, and the watch will clear all data and restart.
+
+
+
+
+
+
+How do I turn my Watch Pro on and off?	1. How to turn the Watch Pro on: When the Watch Pro is off, press and hold the button to turn it on. 2. How to turn the Watch Pro off: (1) When the Watch Pro is on, press and hold the button to display the Restart/Shutdown selection interface. Tap to select Shutdown, and the Watch Pro will turn off automatically. (2) When the Watch Pro is on, in Settings, select the System menu, enter the shutdown options, tap Shutdown, and the Watch Pro will turn off automatically.
+
+
+
+
+
+
+How can I adjust the volume on my Watch Pro while I am exercising?	To adjust the volume on your watch while you are exercising, press the button on the Watch Pro to display the function buttons. The top right button is the volume adjustment button. Tap it to enter and adjust the volume.
+
+
+
+
+
+
